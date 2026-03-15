@@ -1,17 +1,14 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-# load data
-df = pd.read_csv("annotated.csv")
+# train 60%
+train_df = pd.read_csv("train.csv")
 
-RANDOM_SEED = 42
+# validation 20%
+val_df = pd.read_csv("validation.csv")
 
-# split train-temp 60/40
-train_df, temp_df = train_test_split(df, test_size=0.4, random_state=RANDOM_SEED)
-
-# split validation-test 20/20
-val_df, test_df = train_test_split(temp_df, test_size=0.5, random_state=RANDOM_SEED)
+# test 20%
+test_df = pd.read_csv("test.csv")
 
 # find majority label
 majority_label = train_df["Label"].mode()[0]
