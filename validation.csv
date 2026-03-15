@@ -1,0 +1,773 @@
+Post,Comment,Label
+"""People who swore an oath to defend the constitution of the USA against all enemies both foreign and domestic, how are you feeling right now?"" ","""I'm a veteran and father of 2 mixed teenagers and a highly autistic 5 year old.  I'm in Colorado and I'm pissed off and REALLY hope that the military will hold up this oath.  I watched all videos today, including Alex's video from work.  I have plans, will be talking to people I trust and build a communication network offline.  Also a bit scared.""",direct
+"""This teacher of ours lectured us on how difficulty at coding in Notepad increases memorization of the tags and keywords used on HTML/CSS/Javascript, because VS Code will make learning ""easier and redundant"" for you thanks to its features like integrated Copilot and Autocompletion for example. Has anybody encountered these type of teachers before? How reasonable was this from your own experience?
+
+Edit: I've seen people here saying that I should use Notepad++, which I addressed to them but they said ""No"" because ""it's different and too advanced compared to Notepad"", and then they stopped elaborating the ""why"" of it. Probably they strictly want us to recommend using Notepad only on learning how to code.""","""Well, when I was learning coding (it was C++) my teacher didn't really care about software, as the tests were with just pen and paper (just to be brutal, and they were multiple in each week), and people learned.
+
+On the other hand I am a person who just opens notepad if I decide to write code, because if I need help, it would be stuff that software usually doesn't help with anyway (or not in a way that I like).""",related
+"""People who swore an oath to defend the constitution of the USA against all enemies both foreign and domestic, how are you feeling right now?"" ","""I am disgusted. I served on active duty for over 20 years, then in the Fleet Reserve for another 10. I started my active duty in June of 1976, and on our country's bicentennial celebration, I was in boot camp. Now, coming up on fifty years later, I feel like this isn't the country I swore an oath to protect and defend. Instead, it has been usurped by unprincipled and corrupt men and women who seek only to protect their terrible figurehead of a leader and his rotten-to-the-core administration. Even in the worst days of Watergate, I never thought America's government would fall this far, this fast.""",direct
+"""How much do you spend on groceries per month? How much do you spend on groceries per month for a single person?""","""$300""",direct
+"""What has US politics taught you so far ?""","""This nation is being milked by capitalists until they squeeze the last drop from the red white and blue tit and then they’ll all disappear to different countries when the system collapses""",direct
+"""Why do r*dditors pretend that the majority of americans don‘t support Trump?""","""Why do you pretend to make a factual accurate statement that can easily be proven wrong?""",related
+"""What do you think about Trump’s post about the halftime show tonight?""","""My house has been on fire for three hours and I just wanted to say, I think this is potentially dangerous. I am a thoughtful person.""",off-topic
+"""I really dont understand it. Im a first year student and have found myself using AI quite often, which is why I have been able to find very massive flaws in different AI software.
+
+The information is not reliable, they suck with large scale coding, they struggle to understand compiling errors and they often write very inefficient logic. Again, this is my first year, so im surprised im finding such a large amount of bottlenecks and limitations with AI already. We have barely started Algorithms and Data Structures in my main programming course and AI has already become obsolete despite the countless claims of AI replacing software engineers in a not so far future. Ive come up with my own personal theory that people who say this are either investors or advertisers and gain something from gassing up AI as much as they do.""","""I personally think it will replace INTRO software engineers relatively soon, which will cause a lot of problems in the future. Have you ever worked with an intro dev? Most CS grads have 0 idea what they're doing. Obviously they learn over time and become senior developers, but companies will see a way to spend less money and go with that option. """,related
+"""Just been thinking about this lately... been coding for like 3 yrs now and realized some tiny habits I picked up have made my code wayyy better.
+
+For me it was finally learning how to use git properly lol (not just git add . commit ""stuff"" push 😅) and actually writing tests before fixing bugs instead of after.
+
+What little thing do you do thats had a huge impact? Doesn't have to be anything fancy, just those ""oh crap why didnt i do this earlier"" moments.""","""Keeping a todo list stops me from jumping all over the place with random refactors and small fixes that cluttered my pull requests.""",direct
+"""How would you feel about Askreddit banning ""How Do You Feel"" posts about politics and current events?""","""Yes, get rid of all the AI rage-bait designed for engagement farming.""",direct
+"""What is the best breakup song?""","""How’s it going to be by third eye blind comes to mind lol. Babe I’m going to leave you, Zeppelin. Leave (get-out) by JOJO""",direct
+"""Important question: Was Friends actually funny?""","""Oof. I hadn’t watched it in 15 years when Matthew Perry died, so I checked out an episode, and it’s basically Big Bang Theory with better looking people""",related
+"""Who is the most underrated artist right now?""","""Jean Dawson and Genesis Owusu.""",direct
+"""Hi everyone,
+
+I’m really new to both programming and GitHub. I recently created an account hoping to learn how to collaborate on projects and track my code like developers do, but to be honest... I still don’t understand anything about how GitHub works or how I’m supposed to use it.
+
+Everything feels overwhelming — branches, commits, repositories, pull requests… I’m not even sure where to click or what to do first.
+
+Can anyone recommend super beginner-friendly tutorials, videos, or guides that helped you when you were just starting out? I’d really appreciate any step-by-step resources or even personal advice.
+
+Thanks in advance for your kindness and support!""","""A repository is just a fancy term for folder/project. You can have a repository on your pc (local) or in a cloud service (like GitHub).
+
+A commit is, in a nutshell, just a (local) snapshot of your current (local) project.
+
+A push is pushing that (locally stored) snapshot into your cloud repository.
+
+A pull is just pulling the current latest repository/project version from your cloud repository into your local one to be up to date.
+
+Thats pretty much it about the basics.""",direct
+"""What do you guys think about fireworks?""","""i dont care for them. for a few minutes of entertainment = noise pollution, actual pollution, trash in the streets, and most of all potential fire hazard.""",direct
+"""Is it accurate to say that right wing ideology prioritizes hierarchy over equality?""","""Not sure about ""prioritizes"" - I'd say it's more accurate to say that it acknowledges the existence of hierarchies and doesn't assume that all inequality stems from some sort of oppression...""",direct
+"""Best sports stream site now? Since stream East isn't working, how do u guys watch football? Gimme some links guys help a brother out""","""I downloaded Kodi a few weeks ago and I installed an add-on called DaddyLive. It’s got multiple feeds for each game and even regular channels.""",direct
+"""Some countries absolutely own certain sports. Which sports could India own in the future?""","""thanks to vishy, possibly chess""",direct
+"""How much do you spend on groceries per month? How much do you spend on groceries per month for a single person?""","""$150/week +/- for a family of 4 (2 toddlers under 6). So, roughly $450-500/month. Doesn't include going out to dinner or takeout meals, which we do sparingly. If we do go out, it's to places I know I can get a meal for 4 people for under $100, preferably $80 if possible.""",direct
+"""I had an R class and enjoyed the tool quite a bit which is why I dug my teeth a bit deeper into it, furthering my knowledge past the class's requirements. I've done some research on data science and apparently Python seems to be growing faster in the industry and in academia alike. I wonder if I should stop sinking any more time into R and just learn Python instead? Is there a proper GGplot alternative in Python? The entire Tidyverse package is quite useful really. Does Python match that? Will my R knowledge help me pick up Python faster?
+
+Does it make sense to keep up with both?
+
+Thanks in advance!
+
+EDIT: Thanks everyone! I will stick with R because I really enjoy it and y'all made a great case as to why it's worthwhile. I'll dig into Python down the line.""","""Something that hasn't been mentioned yet, but I think Rcpp is a wonderful for hacking some super fast code into an analysis where you need it. Maybe it isn't as good for deployment code as a fancier cross-language solution? But I like it much more than Cython. I used to be a Python-er and make fun of R, but I'm full time R now (data analysis). Tidyverse/ggplot/Rstudio/Rcpp are amazing.
+
+I'd go back to Python for systems stuff probly, but that's not what I do now.""",related
+"""Is anime more mainstream than western cartoons?""","""When on tv back in the 90s and 2000s, some anime were edited sometimes to the point of mockery.""",related
+"""What's your honest opinion on Tinder?""","""If your girlfriend has it installed on her phone while you are dating her. It’s not your girlfriend, just your turn. """,related
+"""Why are the U.S. and China's relations tense, but China still invited Trump to visit China, and why is Trump going?","""You keep your friends close and your enemies closer.""",direct
+"""I'm so used to proofs having similar structure/methods for the forward and converse statements, but I'm curious if there are any statements that have completely different proofs for both directions. I'm talking maybe different fields of math required for both. Or something milder.
+
+Or even if there are any facts that are comically easy in one direction and ridiculously difficult in the other.""","""Cantor-Schroeder-Bernstein
+
+There is a bijective function h:X->Y if and only if there are injective functions f:X->Y and g:Y->X
+
+I haven't checked the proof on Wikipedia, the one I know goes like this =>) ez. take f=h and g=h-1 <=) Consider the following function defined on subsets of X k(A)=X\g(Y\f(A)) - show that it has a fixed point S (that it satisfies k(S)=S) - show that this fixed point is such that the function defined by
+
+f(x) if x is in S g-1(x) if x is not in S
+
+is well defined and bijective""",direct
+"""Those who have quit social media. Did you life get better/worse?""","""You're not gonna get genuine answers because Reddit is social media.""",related
+"""What did Newt Gingrich do to the Republican Party?""","""He made lawmakers go home at weekends, so they stopped socialising with the opposition and ceased to regard them as human.""",direct
+"""If COBOL is so problematic, why does the US government still use it?
+
+After reading that news article, I found reddit post PSA: Don't try to learn COBOL closed, so this was why I opened this one to add relevant and current information.""","""TLDR: It's been around since the 70s, and has many intricate, complex solutions written that are ill documented, but where a lot of business and people depend on on a daily basis, which will take a lot of time, money and downtime to rewrite and migrate to a new solution.""",direct
+"""Years ago, somone asked me why m was used for slope, and I guessed it stood for something in French or German or something. And then discovered that no one is entirely sure. (Again, I assumed some mathematican used it in a journal and it caught on.)
+
+Anyway, I was asked about the h and k, and my answer was usually that the letters were available. I remember using i and j in matrix algebra many years ago, and then again when I learned BASIC and Fortran but I didn't know if that was connected.
+
+My Google-fu seems weak on this question.""","""S as in Entropy.
+S as in Action.
+S as in complex power.
+s as in displacement.
+
+Physicists say ""hi"".""",off-topic
+"""What is the worst role in among us?""","""The more important question is: why did Innersloth choose to have Engineers vent, when engineers IRL don't use vents? I've seen a mod called Town Of Us (Random Roles), which has an Engineer role that fixes sabotages when they happen. Instead of venting, Innersloth should've made the Engineer role fix sabotages. It doesn't make sense to see an engineer have anything to do with vents""",related
+"""While on my honeymoon in Rome six years ago I had a whipped cheesecake that I've thought about almost every day since and it's slowly driving me mad. Could I possibly recreate this at home? The chief at Pianostrada in Rome didn't know how much her cheesecake was going to be living rent free in my head for over half a decade, but here we are. While on my honeymoon in Italy I had a whipped cheesecake at restaurant Pianostrada that I simply cannot stop thinking about. Easily one of the top five things I've ever eaten, and now I'm on a mission to try and recreate it. I know the people of Italy have access to higher fat milks and cheeses, allowing for greater flavors than what I can access here in Canada, but I need to at least try to make this at home. I can make a pretty good bake or non bake regular cheesecake at home, but I NEED this beautiful light and airy cheesecake in my life again, even if it's half as good I'll be happy. Could any of you suggest how to create a cheesecake that had a smooth flavor, without the brightness (lemon zest?) you usually find in homemade cheesecake, it was piped onto the plate (not necessary, I'd be fine to just scoop it out of a bowl), but with a texture of almost like a moose, the opposite of a usually dense cheesecake. Any pointers would be great, Thanks all. I've found a photo of it from a review. https://imgur.com/a/XPHWBfK""","""I suspect one of the ingredients of the mousse is probably ricotta. It gives a distinct texture (that grittiness you get in cheesecake but smoother, even when you buy a smooth ricotta) and taste (hints of lemon and vanilla by itself). Something like this (Galbani is a common Italian supermarket milk brand): https://www.galbani.it/ricette/cheesecake-al-limone""",direct
+"""Where does the water go if you light a balloon of hydrogen on fire? How can it get hot and produce water at the same time? Do you just get super heated vapour?""","""Most fuels we burn, natural gas, gasoline, hydrogen produce water(as a gas) as a product. They also produce lots of heat. The gaseous water can not take up very much heat, and is very expansive, so it leaves the combustion zone quickly. The heat produced, burns more fuel.""",direct
+"""What concerns you most about modern politics that needs attention?""","""It isn't said enough that the GOP is closer to a terrorist organization than an actual political party, and are responsible solely for the woes of America.""",direct
+"""I have training in physics and maths and have been looking at statistical programming jobs in the private sector (mostly biotech), and it seems like every single company wants to use SAS. I gave it a shot over the weekend, as I usually just use Python or R, and holy shit this language is such garbage. Why do companies willingly use this? It's extortionate, syntactically awful, closed-source, has terrible docs, and lags a LOT of functionality behind modern statistical packages implemented in Python and R.
+
+A lot of the statistical programming work sounds interesting except that it's in SAS, and I just cannot fathom why anybody would keep using this garbage instead of R + Tableau or something. Am I missing something? Is this something I'll just have to get over and learn?""","""SAS is extremely common in pharma because it's been used for so long that it's a known entity and hence less risky. The FDA will even accept SAS files directly as part of regulatory submissions.
+
+Also, from a regulatory perspective, companies in medical device and pharma tend to shy away from open source because it makes validation of the software more difficult. If you purchase software, you can then audit the company that wrote it to verify that they followed FDA guidelines in producing it.
+
+I also hate it.""",direct
+"""Why is harry potter so good?""","""The world feels real. The characters are very, very relatable. It takes universal themes like love & loss, good & evil, the power of choice.""",direct
+"""Has Sports betting really ruined most sports? Is the damage really that big?""","""For me, college conference re-alignment ruined (college) sports. The betting is .... whatever....""",related
+"""Most Overrated Restaurant in Hamilton? Give me your hot takes. What’s a popular place in Hamilton that you just don’t understand the hype around.""","""Mule - $6-7 for a single miniature taco. $16 for a mixed drink. Get lost 😑""",direct
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""maybe a little bit but not much. tennis has a very niche rich class audience, something masses wouldn't enjoy.""",direct
+"""In this pdf, in section 6, it is claimed that if a series of random events always stops after a fixed amount of successes, the probability of how many successes occur in a chain is no longer described by a binomial distribution. It also contains a figure illustrating the claim, but the code that was used to create the figure is not included.
+
+I don't completely understand the claim and i tried to simulate it myself (code here), but the results showed no difference.
+
+can somebody shine light on this issue for me, please?
+
+Edit: Thanks to all who have commented so far. The consensus in this sub seems to be that the analysis in the paper contains mistakes.
+
+Follow up question: does anybody have an idea how figure 2 was made?""","""I think the stopping criterion in your code is irrelevant given the low probability of getting a pearl and the low maximum number of barriers. Try multiplying the probability by 5 and run it again. (On mobile, so i didn't run it)""",related
+"""If someone asks me ""who is the actor in that film about blah blah"" and I say ""I'm 95% sure it's Tom Cruise"", then what I mean is that for 95% of these situations where I feel this certain about something, I will be correct. Obviously he is already in the film or he isn't, since the film already happened.
+
+I see confidence intervals the same way. Yes the true value already either exists or doesn't in the interval, but why can't we say we are 95% sure it exists in interval [a, b] with the INTENDED MEANING being ""95% of the time our estimation procedure will contain the true parameter in [a, b]""? Like, what the hell else could ""95% sure"" mean for events that already happened?""","""If we're being pedantic, it's not clear what it means to be ""95% sure"". I'd venture to say that most people use phrases like this to indicate strength of belief. It's possible to interpret this kind of ""sureness"" as a Bayesian statement but ultimately the brain isn't computing probabilities.
+
+I think it's an interesting idea to use your feeling of sureness as a reference for how likely something might be based on experience but then it seems it would boil down to using language to convey qualia. I might think a color is ""95% red"" and you might agree but what if anything does that imply about the color itself?""",direct
+"""What is your most strongly held political opinion?""","""Corporations should not be considered a “person” reaping the benefits of a real person. They should not be able to contribute to political campaigns as a person. Citizens United needs to be repealed. Big Business is now running this country into the ground because they hold the purse strings.""",direct
+"""Those who have quit social media. Did you life get better/worse?""","""Dude, no one here knows.""",related
+"""Who is the most underrated artist right now?""","""Hard to measure. I often run across dozens of artists from, say, Bandcamp articles or RYM recommendations that have zero buzz. No reviews anywhere on the internet, nothing.
+
+There's so much music out there.""",related
+"""can i learn to cook without actually cooking? hello, i really want to learn to cook since its a really important skill to have, but my mom doesnt let me inside the kitchen and says she will cook for me,, she wants me to depend on her and says after that my future wife will do the cooking for me,,which sounds yucky, can i learn to cook by just watching vidoes?""","""Your mom is making you a less desirable partner. Go take classes.""",related
+"""When I look at the problems, I have no idea what methods to apply.
+
+I practice a lot.
+
+When eventually I give up and look at the solution, they just seem to know which solution to apply but don't really break down what in the question gave them the idea to use that - or how to start breaking down the problem to find the method to use.
+
+Now, I didn't feel like this so much in CALC I , II , even III. I understood the concepts at about same level as i did for differential equations (which is to say I feel like I can explain them to a 15 year old) and often I solved questions on those lower math classes just by knowing what formula to use by being familiar through lots and lots of practice.
+
+But I can't seem to get to that level in Differential Equations. Even with open book of methods, I can't seem to figure out what to plug in - or how to start breaking down the problem to get to a point where I can plug in a method .
+
+Is my brain missing something/ am I looking at this completely wrong?
+
+Is the simple answer just that I need to practice even more?
+
+Bonus question : IF all they care about is us understanding the concepts, why don't they provide the formulas/methods?
+
+sorry for the long text.""","""I found most of my intuition about ldifferential equations came from linear algebra. Eigenvalues, eigen vectors, Hilbert spaces, inner products and adjoints. If you have a strong foundation in linear algebra and realize it can be applied to DEs you’ll find more intuition. """,related
+"""Those who have quit social media. Did you life get better/worse?""","""Quit about 7.5 yrs ago and yes .. it has made life better. Simple and stress free, I will never go on social media again""",direct
+"""Does this generation watch Harry Potter?""","""i quite like ""Harry Potter and the mandem get stoned""""",related
+"""Thoughts on the state of Fortnite?""","""I think y’all expect too much from a free game.""",related
+"""This teacher of ours lectured us on how difficulty at coding in Notepad increases memorization of the tags and keywords used on HTML/CSS/Javascript, because VS Code will make learning ""easier and redundant"" for you thanks to its features like integrated Copilot and Autocompletion for example. Has anybody encountered these type of teachers before? How reasonable was this from your own experience?
+
+Edit: I've seen people here saying that I should use Notepad++, which I addressed to them but they said ""No"" because ""it's different and too advanced compared to Notepad"", and then they stopped elaborating the ""why"" of it. Probably they strictly want us to recommend using Notepad only on learning how to code.""","""After 30 years of writing html I can emphatically say that this is stupid.
+
+Sorry to all the people here who think it's great because it supposedly would teach you the html tags better.
+
+It just doesn't work like that.""",direct
+"""Is basketball not a popular sport in China? r/AskChina - Is basketball not a popular sport in China? It’s surprising to me how Korea can beat China, considering it’s such an unpopular sport here that we don’t even get TV broadcasts.""","""u/EvidenceFrequent7289, who frequently posts anti-Chinese and racist content on Korean subreddits, is now active in this sub.Hahaha""",off-topic
+"""What's your honest opinion on Tinder?""","""Did you try to optimize your profile? Asking here gór feedback on your bio and pictures?""",related
+"""What are your top albums of 2025 so far?""","""Perverts, Ballonerism, Eusexua are top 3. Also really loving this new Paris Texas project. I’m a little behind on some other releases. Gotta catch up soon.""",direct
+"""Most toxic gaming community?""","""Any fucking competitive FPS""",direct
+"""In this pdf, in section 6, it is claimed that if a series of random events always stops after a fixed amount of successes, the probability of how many successes occur in a chain is no longer described by a binomial distribution. It also contains a figure illustrating the claim, but the code that was used to create the figure is not included.
+
+I don't completely understand the claim and i tried to simulate it myself (code here), but the results showed no difference.
+
+can somebody shine light on this issue for me, please?
+
+Edit: Thanks to all who have commented so far. The consensus in this sub seems to be that the analysis in the paper contains mistakes.
+
+Follow up question: does anybody have an idea how figure 2 was made?""","""As you can see here, the expected probability doesn't change.
+
+The concern is that dream ended on his PB, which could inflate the rate. However, this is pretty equivalent with a potential sampling bias (""You only investigated me because I got lucky!""), as because of the equivalent expected value, he had a roughly equal chance of ending on a bad run or a good run, but he ended on a good run and therefore we're more suspicious (or something like that). However, mods literally just took EVERY SINGLE speedrunner speedrunning for an absurd amount of time that really only top top speedrunners stream (daily for several hours, which dream obviously doesn't do) to account for the potential sampling bias, and still arrived at 7.5 trillion.
+
+TL;DR The expected value of the pearl trades do not change, and to account for sampling bias, the mods already did the brunt of the work.
+
+The other thing that apparently drastically reduces the probability is p-hacking. I'm no statistics major so for this one I'm not too confident, but I'm pretty sure a lot of this one is bullshit. The first evidence of p-hacking was not including the 5 other streams he did, which is bullshit - if someone flips 50 heads and 50 tails in a row, the overall average is expected, but if it's a continuous subsegment of events, you can easily analyze it. Anyone who argues against this point is anti-intellectual or lying. This part I'm pretty confident in.
+
+The thing I'm not so confident in is the ""multiple sources of RNG"" thing. I assume this is ""real"" p-hacking in action, but intuitively it feels like bullshit. Why not just investigate all the alleged sources of RNG, and conclude whether or not it is statistically significant enough? That should just account for the p-hacking, right? Not too sure about this one, someone can correct me on this tho if it's wrong.
+
+TL;DR bullshit, mathematically and as you said, code-proven, to be false.""",direct
+"""I really dont understand it. Im a first year student and have found myself using AI quite often, which is why I have been able to find very massive flaws in different AI software.
+
+The information is not reliable, they suck with large scale coding, they struggle to understand compiling errors and they often write very inefficient logic. Again, this is my first year, so im surprised im finding such a large amount of bottlenecks and limitations with AI already. We have barely started Algorithms and Data Structures in my main programming course and AI has already become obsolete despite the countless claims of AI replacing software engineers in a not so far future. Ive come up with my own personal theory that people who say this are either investors or advertisers and gain something from gassing up AI as much as they do.""","""I think it's also a forecast of the future in 5 to 10 years. Will it be that advanced by then? Who knows, but I'm prepping for a possible career change in the future.""",related
+"""Best sports stream site now? Since stream East isn't working, how do u guys watch football? Gimme some links guys help a brother out""","""Streameast is working. It has a slew of official domains. Updated list always found here: https://v2.gostreameast.link/ For StreamEast alternatives, look here: https://fmhy.net/video#live-sports List is always sorted with ""best"" sites at the top.""",direct
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""Officially I grow microgreens and supply them to restaurants and caterers. Unofficially I write scripts and novels.""",direct
+"""Everyone has seen Cantor's diagonalization argument, but are there any other methods to prove this?""","""Topologically you can show that a nonempty compact Hausdorff space that has no isolated points is uncountable, and a corollary is that every closed interval in the Reals is uncountable.
+
+Check out Munkres Topology Section 27: Compact Subspaces of the Real Line.""",direct
+"""Tea on soccer (football) players or teams? Anything really! Like joao felux, jude bellingham, riccardo calafiori etc""","""Now we’re talking ☕️""",off-topic
+"""Those who have quit social media. Did you life get better/worse?""","""I've been off for around three weeks. No regrets at all""",direct
+"""What is your take on people who say they’re not political or that they hate politics?""","""Just look at how unhappy people are when they get involved in politics. Then they try to justify their unhappiness by blaming everyone else.
+
+That alone is enough to stay out of politics.""",direct
+"""Just been thinking about this lately... been coding for like 3 yrs now and realized some tiny habits I picked up have made my code wayyy better.
+
+For me it was finally learning how to use git properly lol (not just git add . commit ""stuff"" push 😅) and actually writing tests before fixing bugs instead of after.
+
+What little thing do you do thats had a huge impact? Doesn't have to be anything fancy, just those ""oh crap why didnt i do this earlier"" moments.""","""Variable names don't have to be short. They have to be descriptive.
+
+Every time I write new code, I imagine someone is going to wipe my memory and I will be charged with maintaining this code next month without knowing anything about it.""",direct
+"""As someone who has never cooked before how do I get into the world of cooking and make it a hobby? Share your answer""","""Find something, or a few things, you really enjoy eating and work on perfecting the recipe and how you cook it. Once you feel you have nailed it, move on to another dish you like or one you find more challenging. Share your talent with people you like. Watching someone devour something you cooked because they love it is extremely rewarding for both you and them.""",direct
+"""Hey everyone,
+
+I just started my first ever job as a junior dev last week (fresh out of school), and honestly it already feels like a disaster. I’m starting to question myself a bit.
+
+My first day was Monday, and by Friday I was already in home office. Same today too and Monday too. The only office days are Wednesday and Thursday, which feels a bit sad because I’m brand new and immediately working from home with barely any guidance is to much.
+
+I never really got a proper introduction to the project, the systems, or how tickets are normally solved. My very first ticket was basically: “Yo, look in our system, I have a ticket for you, try to solve it. If you have questions, ask me…” That’s it. No walkthrough, no explanation of where to start. I asked how they usually approach tickets or where to even find the relevant code, but I still felt pretty lost.
+
+To be fair, I did get a decent intro into the running software itself, so I kind of understand the product. But that’s where it ended. Meanwhile, I see other people who started just a month before me sitting next to their team lead getting tons of explanations and support.
+
+Somehow I managed to solve 3 tickets (a mix of with and without help), but most of the time I have nothing to do. I’m just sitting here, bored, not knowing what I should be learning or focusing on.
+
+I’ve tried to be proactive and ask what I could look into:
+
+Yesterday I asked if there were patterns or frameworks I should study. The response was just: “Take a look at EF and how we make the models"" EF and setting up a config for models isnt that hard so I understood it quite fast.
+
+Today I asked again and just got sent some tickets to read through “to see if I understand what the customer wants.” which is so overwhelming.
+
+Another coworker told me to check out their validation logic cause I will be working with this part of the project, but there are a ton of files with different rules and it’s overwhelming to dig into alone at home.
+
+So now I’m just sitting here wondering: am I doing something wrong? Is it normal to feel this lost and useless in the first week? Or did I pick the wrong career path entirely?
+
+It’s super frustrating because I want to learn and contribute, but right now it feels like I’m just drifting.
+
+Has anyone else been in this situation? Is this just how the start usually feels, or is this a red flag?""","""So, I'm a massive fan of WFH, except for very junior developers (i.e. anyone in their first year). 
+
+I would strongly recommend you go into the office every day and sit next to anyone you even vaguely know, even if you are not actually on their team.
+
+Don't pester them with questions, but don't be scared to ask questions either. Basically, when you ask a question, you should be at a point where you know the information you are looking for, but also know that you can't find it yourself.
+
+So, for example, asking ""how do I commit a change"" is not a good question, because it's vague, would take hours to answer fully and strongly suggests you have not done even basic research.
+
+Asking ""What is the URL of the GitHub server"" is a great question - I can answer it instantly, and there is no way you could have found it out yourself (errr - unless it's in the new starter guided in which case you shouldn't have asked it, obviously!).
+
+So, when asking a question (or raising a bug, or anything really) always start with ""What I did"", ""What I expected to happen"" and ""What actually happened"" - change those questions to ones that make sense for the question you are asking, but generally they are a good format for asking for help.
+
+People want to help - they just don't want to do your job for you.""",related
+"""How do you feel about board games?""","""I'm not a huge fan of turn-based games, where there's a long wait between individual turns, especially if there are multiple players. I get bored, lose track of... everything. I played wingspan once. Never again.""",direct
+"""So my boss recently told me that try-catch statements are ""garbage"" and that I should avoid using them when developing. This wasn't specific to any particular language - they seemed to mean it as a general programming principle. I'm pretty confused because I thought error handling with try-catch was fundamental to most modern programming languages. I know it can be misused (like catching exceptions and doing nothing, or using exceptions for control flow), but completely avoiding it seems extreme. Is there some programming philosophy or best practice I'm missing here? Are there alternatives to try-catch that are considered better? Or is my boss maybe referring to specific anti-patterns that I should be aware of? Has anyone else encountered this ""no try-catch"" philosophy? What are the actual best practices around exception handling across different languages? Any insight would be really helpful - I want to understand if there's something legitimate here or if I should push back on this guidance.
+
+‐--------------------------------------------------------------------------------
+
+When people say vague things like ""That's not good programming,"" I always ask, ""Why?"" Why is it garbage? Why is it bad design? Why isn't it good programming?
+
+When I asked that, they said, ""You should at least make a program that doesn't produce errors,"" and then laughed at me.
+
+Anyway, thanks for all the responses. I posted this because I was genuinely confused after that conversation and wanted to see if I was missing something obvious.""","""Has this whole comment section never heard of go or rust?
+
+Both don't have exceptions and only use errors as return values""",off-topic
+"""Let’s Discuss: Who’s bigger, Taylor Swift or Michael Jackson?""","""Their level of fame is not really comparable because they are working in different times.""",direct
+"""I am currently studying bayesian statistics and there seems to be a great emphasis on having priors as uninformative as possible as to not bias your results
+
+In that case, why not just abandon the idea of a prior completely and just use the data?""","""Unlike other responses, I believe Bayesian statistics *has* moved towards non-informative priors. I will take your question at face value.
+
+Here are some scenarios where I've found a Bayesian approach preferable over a Frequentist approach.
+
+It can be really useful to have a full (posterior) distribution for your parameter estimates. You can make probability statements like ""there is a 90% chance this treatment is effective"" or ""there's an 70% chance this coin is not fair"".
+Bayesian statistics is great for missing data problems. In Bayesian methods, you can assume a distribution for your missing data and get a full posterior distribution for all your missing data. It turns your missing data into something tangible.
+You can have a hard time building a very bespoke model in a Frequentist setting. Let's say you're doing multilevel regression with Laplace errors. I would have no idea how to fit a Frequentist version of that model, but it's easy to throw that into Stan and get something out. Generally, this comes with far fewer theoretical guarantees though.""",direct
+"""Hey everyone. I'm a soon-to-be IB student and I'm wondering whether I should choose chemistry as one of my subjects. I was never good at chemistry, but I'm currently very uncertain about what I want to study in university and I believe chemistry would open a lot of doors for me. I thought this would be a chance for me to prove to myself that I can somewhat do chemistry? Anyways, I am also considering physics which I think I would be a bit better at. What should I do?""","""I personally believe chem sl is the easiest sl there is and requires minimal efforts, also really easy to get a 7. But then again some ppl might disagree, it all depends on individuals. Also what doors specifically are you looking for?""",related
+"""Tinder review: Is it worth using right now?""","""Tinder hasn't been usable for years. Half the people are bots and the others have deleted the app 7 times.""",direct
+"""What saddens you about the political environment in 2026?""","""The exhaustion. It feels like we’re permanently stuck in crisis mode, where fear and misinformation spread faster than solutions and people talk past each other instead of actually trying to fix things.""",direct
+"""Is Sabrina Carpenter a good artist?""","""Good is subjective.
+
+To many, including me, she is.
+
+I'm 31m""",direct
+"""or most of history, geometry was basically the only kind of mathematics people studied. Everything else algebra, analysis, etc seems to have evolved from geometric ideas( or at least from what I understand) People used to think of mathematics in terms of squares, cubes, and shapes.
+
+But today, nobody really cares about geometry anymore. I don’t mean modern fields like differential or algebraic geometry, I mean classical Euclidean geometry the 2D and 3D kind. Almost no universities teach it seriously now, and there doesn’t seem to be much research about it. You don’t see people studying the kind of geometry that used to be the center of mathematics.
+
+It’s not that geometry is finished - I doubt we’ve discovered everything interesting in it.
+
+There are still some people who care about it, like math competition or Olympiad communities, but that’s about it. Even finding a good, rigorous modern book on geometry is rare.
+
+So why is geometry so ignored today?""","""I disagree with some of the comments here saying that 2d geometry isn't interesting enough to be researched. I think what has happened is the questions in euclidean geometric domain have become so complex that traditional synthetic geometry just isn't equiped to answer them and we have evolved a separate language to tackle these questions.
+
+Things like considering the relationship between areas and their boundaries of 2 dimensional objects is the language of calculus but can be equally reframed as a synthetic euclidean problem.
+
+Finding rational points lying on a specific diophantine equation is a number theoretic problem but also easily seen as a 2d geometry problem.
+
+The notion of a space filling jordan curve in 2d, or an unintuitive non simple curve which has spikes everywhere despite being connected can also be framed in terms of euclidean geometry but needs topological tools to answer them.
+
+Trajectories of ODE's phase space, aka their solution sets could also be described as problems of euclidean geometry finding certain subsets that satisfy specific geometrical conditions.
+
+The unsolvability of the quintic, the problem of determining which curves can or cannot be constructed with ruler and compass etc are all geometric problems that need al algebraic mechanism to answer.
+
+What has happened is synthetic geometry doesn't have the toolkit to even frame a lot of these problems let alone consider solving them We've developed entire new derivative languages to handle further complex questions. It's just like we don't use quantum mechanics to describe the dynamics of predator and prey in the food chain in a local ecosystem. Even though theoretically it should be possible, after all animals are made of atoms.""",related
+"""Hi everyone,
+
+I’m really new to both programming and GitHub. I recently created an account hoping to learn how to collaborate on projects and track my code like developers do, but to be honest... I still don’t understand anything about how GitHub works or how I’m supposed to use it.
+
+Everything feels overwhelming — branches, commits, repositories, pull requests… I’m not even sure where to click or what to do first.
+
+Can anyone recommend super beginner-friendly tutorials, videos, or guides that helped you when you were just starting out? I’d really appreciate any step-by-step resources or even personal advice.
+
+Thanks in advance for your kindness and support!""","""first start with git, when i was starting out i was also really confused about github. Try learning about git, its features. You might be confused at first but will slowly start to get hang of it""",direct
+"""Parmesan rind substitute? I keep being intrigued with recipes that turn out to call for a parmesan rind. Which I've never had and can't honestly say I expect to have, really - I just don't use parmesan much. I'm assuming that for the usual (soup or stew) recipes that call for this, probably throwing in an equivalent weight of actual cheese is not the answer 😂 So... what's my best bet? MSG? Fish sauce? Something else? Just shrug and omit it? Pass on the recipe altogether?""","""Nutritional yeast maybe?""",direct
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""No""",direct
+"""How would you feel about Askreddit banning ""How Do You Feel"" posts about politics and current events?""","""I’d be fine with it, those threads just turn into echo chambers anyway.""",direct
+"""Why does sports betting seem like it's something you could easily profit on but you really can't?""","""It's just luck but I'd say it's much easier getting a W on myprize""",direct
+"""How popular is football (soccer) in China right now? Hi everyone, I’m curious about how football is perceived in China these days. Are people still excited about international leagues like the Premier League or La Liga? Do local teams get strong support? What about young people—are they more into playing or just watching? Would love to hear how football fits into daily life or city culture in different parts of China. Thanks in advance!""","""Not so much, of all the hundred of chinese people I come across, zero said they like football matter of fact good number of them like ice hockey or NFL""",direct
+"""Some countries absolutely own certain sports. Which sports could India own in the future?""","""Sepak Takraw! It's a SEA sport and we're already pretty good at it.""",direct
+"""What do you think about Trump’s post about the halftime show tonight?""","""He insults and ridicules his supposed enemies every day, so this is nothing new. Bad Bunny has criticized ICE and Trump's immigration policies and the fact that PR is not a state. He's incredibly popular and Trump can't stand a celebrity who ""competes"" with him . It also reminds Trump of how Koepernick made kneeling at the NFL a political statement. See his rants against Bruce Springsteen, Robert DeNiro, etc. Same thing.""",related
+"""Important question: Was Friends actually funny?""","""That depends… do you find tight sweaters hilarious?
+
+I sure did/do.""",related
+"""Who is the most globally recognized Athlete in history?""","""Everyone saying Messi or Ronaldo, but I'll dig way back and say Pelé.""",direct
+"""Most toxic gaming community?""","""Anything where Gen Z is""",related
+"""Why do conservative Christians hate so many people when it clearly goes against their Christian values?""","""I think there are spiritual Christians and church institution Christians. The latter uses the name of Jesus to act morally superior.""",direct
+"""Hello, I am currently finishing my IGCSE but i was curious on when i will take IB what TOK actually is.
+
+I asked some of my friends a year above me but they are unsure too.
+
+Thank you (please dont just write Theory of Knowledge and leave :) )""","""Basically, you explore the concept of ""knowledge"" and implications of knowledge. Together with EE, it contributes to the bonus points (/3). It has an internally assessed component (exhibition) - typically done in grade 11, and an externally-assessed component (essay) done in grade 12. Each task is graded out of 10, but your final mark will be out of 30 not 20 (weird, i know). I think a 22/30 is an A. The exhibition is generally significantly easier than the essay, so a lot of people tend to get 10/10 on the exhibition and 6/10 on the essay - which would be an A.
+
+I'm currently working on my TOK essay for M25, and I've got to say - it's one of the hardest tasks I've had to do in the IB so far.""",direct
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""I'm a high school Culinary Arts teacher, kids are so much easier than the fine dining customer base! Next year I'll make more than I ever did as a chef and I get my weekends off.""",direct
+"""Hey all,
+
+I went to a hackathon this weekend, and so many people were able to create these nice website UI's, with words that changed colors and the background was super colorful; I have no idea how any of this could've been created from scratch using just coding. I was wondering if someone could tell me how these UI's can be made in such a short time?""","""A good CSS framework goes a long way.""",related
+"""What sport do you play?""","""Does motorcycle racing count?""",direct
+"""When I look at the problems, I have no idea what methods to apply.
+
+I practice a lot.
+
+When eventually I give up and look at the solution, they just seem to know which solution to apply but don't really break down what in the question gave them the idea to use that - or how to start breaking down the problem to find the method to use.
+
+Now, I didn't feel like this so much in CALC I , II , even III. I understood the concepts at about same level as i did for differential equations (which is to say I feel like I can explain them to a 15 year old) and often I solved questions on those lower math classes just by knowing what formula to use by being familiar through lots and lots of practice.
+
+But I can't seem to get to that level in Differential Equations. Even with open book of methods, I can't seem to figure out what to plug in - or how to start breaking down the problem to get to a point where I can plug in a method .
+
+Is my brain missing something/ am I looking at this completely wrong?
+
+Is the simple answer just that I need to practice even more?
+
+Bonus question : IF all they care about is us understanding the concepts, why don't they provide the formulas/methods?
+
+sorry for the long text.""","""If Reddit could see my transcript it would never show this sub on my feed.""",off-topic
+"""Most Overrated Restaurant in Hamilton? Give me your hot takes. What’s a popular place in Hamilton that you just don’t understand the hype around.""","""surprised no one has mentioned Coop yet. so i will. Coop sucks ass and balls""",direct
+"""Why do r*dditors pretend that the majority of americans don‘t support Trump?""","""I mean in reality the majority does not support either side. Only 30%ish show up to vote.""",direct
+"""What do Chinese people think about Yang Hansen? i know Basketball is the most popular sport in China so i assume most chinese know him. What do you guys think about him.""","""I mean basketball is the most popular sport? According to who? Maybe it makes the most money but in terms of popularity I’m gonna say badminton is hands down the most popular.""",related
+"""Why are East Asians so good at sports but not Taiwan? When I was young, I had a picture of Calvin Smith. He was the world record holder of the 100m at 9.93s and I would later find out the ""cleanest"" 100m athlete ever, never been caught for doing drugs. Next to him was a poster of Li Ning doing the pommel horse at the 1984 Olympics. Needless to mention China, which today competes with the USA for the top medals ranking at the Olympics, Korea and Japan also consistently feature in the top 5 and top 10 medals ranking. And Korea and Japan are now consistent world cup qualifiers at football. Even smaller nations like Malaysia is a powerhouse at badminton. When I was young, I would go to school with my bag and my badminton racket. Badminton clubs are oversubscribed and membership only available via lottery. What happened to Taiwan?""","""Depends on the type of the sport, I think. China is very bad at soccer.""",related
+"""While on my honeymoon in Rome six years ago I had a whipped cheesecake that I've thought about almost every day since and it's slowly driving me mad. Could I possibly recreate this at home? The chief at Pianostrada in Rome didn't know how much her cheesecake was going to be living rent free in my head for over half a decade, but here we are. While on my honeymoon in Italy I had a whipped cheesecake at restaurant Pianostrada that I simply cannot stop thinking about. Easily one of the top five things I've ever eaten, and now I'm on a mission to try and recreate it. I know the people of Italy have access to higher fat milks and cheeses, allowing for greater flavors than what I can access here in Canada, but I need to at least try to make this at home. I can make a pretty good bake or non bake regular cheesecake at home, but I NEED this beautiful light and airy cheesecake in my life again, even if it's half as good I'll be happy. Could any of you suggest how to create a cheesecake that had a smooth flavor, without the brightness (lemon zest?) you usually find in homemade cheesecake, it was piped onto the plate (not necessary, I'd be fine to just scoop it out of a bowl), but with a texture of almost like a moose, the opposite of a usually dense cheesecake. Any pointers would be great, Thanks all. I've found a photo of it from a review. https://imgur.com/a/XPHWBfK""","""You know I really don't even like cheesecake but this post and your comments are making me crave it""",off-topic
+"""What saddens you about the political environment in 2026?""","""That ""unity"" for this country is more or less over. I don't see the divide ever really being mended. Even if Trump is gone, there's still all the people that supported (and still support) all the horrible things he does and stand for.
+
+How do you make peace with people who literally supports innocent people being murdered? How do you get along with those who think committing domestic terrorism is the solution to losing an election?
+
+What do you do when one party is cruel evil and the other party is apathetic evil?""",direct
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""A couple years after the insanity that was 2020, I landed a job working for a state agency auditing casinos. I had just graduated with a degree in accounting, and a regular hooked me up with an interview. I love it. Zero stress. I can take time off at the drop of a hat if my kid is sick. All holidays off. The busiest I get is when a new casino opens, or if I'm involved in a criminal investigation. Even then, it's nothing like when I worked in F&B.""",direct
+"""Is it accurate to say that right wing ideology prioritizes hierarchy over equality?""","""they prioritize opportunity over outcome.""",direct
+"""Who is the most underrated artist right now?""","""Mrs. Hayley Williams & Foals.""",direct
+"""Is league still worth getting into for a new player?""","""Haha, even vet players are questioning themselves""",related
+"""Most Overrated Restaurant in Hamilton? Give me your hot takes. What’s a popular place in Hamilton that you just don’t understand the hype around.""","""Berkeley North""",direct
+"""Hey everyone,
+
+I just started my first ever job as a junior dev last week (fresh out of school), and honestly it already feels like a disaster. I’m starting to question myself a bit.
+
+My first day was Monday, and by Friday I was already in home office. Same today too and Monday too. The only office days are Wednesday and Thursday, which feels a bit sad because I’m brand new and immediately working from home with barely any guidance is to much.
+
+I never really got a proper introduction to the project, the systems, or how tickets are normally solved. My very first ticket was basically: “Yo, look in our system, I have a ticket for you, try to solve it. If you have questions, ask me…” That’s it. No walkthrough, no explanation of where to start. I asked how they usually approach tickets or where to even find the relevant code, but I still felt pretty lost.
+
+To be fair, I did get a decent intro into the running software itself, so I kind of understand the product. But that’s where it ended. Meanwhile, I see other people who started just a month before me sitting next to their team lead getting tons of explanations and support.
+
+Somehow I managed to solve 3 tickets (a mix of with and without help), but most of the time I have nothing to do. I’m just sitting here, bored, not knowing what I should be learning or focusing on.
+
+I’ve tried to be proactive and ask what I could look into:
+
+Yesterday I asked if there were patterns or frameworks I should study. The response was just: “Take a look at EF and how we make the models"" EF and setting up a config for models isnt that hard so I understood it quite fast.
+
+Today I asked again and just got sent some tickets to read through “to see if I understand what the customer wants.” which is so overwhelming.
+
+Another coworker told me to check out their validation logic cause I will be working with this part of the project, but there are a ton of files with different rules and it’s overwhelming to dig into alone at home.
+
+So now I’m just sitting here wondering: am I doing something wrong? Is it normal to feel this lost and useless in the first week? Or did I pick the wrong career path entirely?
+
+It’s super frustrating because I want to learn and contribute, but right now it feels like I’m just drifting.
+
+Has anyone else been in this situation? Is this just how the start usually feels, or is this a red flag?""","""If it makes you feel any better every single one of my Dev jobs has been like this, my most recent job I started during COVID and was exactly the same, even my in person jobs the main devs were too busy and quite frankly not qualified to be a trainer. Just because you're a good/senior Dev doesn't mean you're a good teacher.
+
+All you can do is try your best, and be able to explain what you've tried and why, and ask as many questions as possible. Document everything, try to read any documentation that they've written.""",related
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""I'm security in a library now complete opposite of chefing. I drink tea and read for 90 mins do a 10 min check of the building and repeat haha""",direct
+"""Hello, I am currently finishing my IGCSE but i was curious on when i will take IB what TOK actually is.
+
+I asked some of my friends a year above me but they are unsure too.
+
+Thank you (please dont just write Theory of Knowledge and leave :) )""","""It's a very bad version of philosophy. It only likes to focus upon the theory of knowledge, how we consume it, how it's sustained, and etc.""",direct
+"""Wikipedia says 118 was synthesized back in 2002. How come no one has made more progress in over two decades?""","""Odd number elements are inherently less stable than even number elements due to the effects of proton pairing, proton repulsion makes elements progressively less stable as the number increases.  Success rate decreases as the atomic weight difference of the 2 starting nuclei decreases.  These effects combine such that you need highly unstable elements to start with and these elements become harder to make themselves.  Any successful creation of an element has to then decay in a manner that leaves the original isotope determinable, spontaneous fission doesnt allow for this""",direct
+"""Hi guys! I'm a DP2 suffering from the unimaginable amounts of agony that is the Internal Assessments already screwed over history eshkedditttt
+
+I was starting to write my IA on conditional probability (to be specific, the Doomsday Argument) when my teacher told me that it didn't feel like I completely understood the topic, which was somewhat true. I changed my topic to calculating the fuel efficiency of a slingshot maneuver, but decided it was too physics-oriented.
+
+Could you guys lend me a hand with some not-so-generic IA topics? Something related to calculus would be nice""","""> calculating the fuel efficiency of a slingshot maneuver
+
+Honestly that sounds like a pain, but a pain worth a 7, because this is rare; if you experiment, it shows personal engagement; finding a way to use less physics and more math will gain you more math and exploration points and you can also use diagrams/graphs/tables for this topic....
+
+However it's ok if you'd like to change. My advice would be to find something simple, and just fucking it up mathematically - I think one of the samples is on ""modelling the rate of cooling of a tea cup""; mine was ""modelling my volume of hair""; I'm sure you could also find stupid shit that your teacher might approve. If you are HL, tbh, if you do a further maths topic-related IA or something relating to the options, you could get a high score. If you are SL, you could follow my previous advice since it would be less painful tbh....""",direct
+"""Hey everyone,
+
+I just started my first ever job as a junior dev last week (fresh out of school), and honestly it already feels like a disaster. I’m starting to question myself a bit.
+
+My first day was Monday, and by Friday I was already in home office. Same today too and Monday too. The only office days are Wednesday and Thursday, which feels a bit sad because I’m brand new and immediately working from home with barely any guidance is to much.
+
+I never really got a proper introduction to the project, the systems, or how tickets are normally solved. My very first ticket was basically: “Yo, look in our system, I have a ticket for you, try to solve it. If you have questions, ask me…” That’s it. No walkthrough, no explanation of where to start. I asked how they usually approach tickets or where to even find the relevant code, but I still felt pretty lost.
+
+To be fair, I did get a decent intro into the running software itself, so I kind of understand the product. But that’s where it ended. Meanwhile, I see other people who started just a month before me sitting next to their team lead getting tons of explanations and support.
+
+Somehow I managed to solve 3 tickets (a mix of with and without help), but most of the time I have nothing to do. I’m just sitting here, bored, not knowing what I should be learning or focusing on.
+
+I’ve tried to be proactive and ask what I could look into:
+
+Yesterday I asked if there were patterns or frameworks I should study. The response was just: “Take a look at EF and how we make the models"" EF and setting up a config for models isnt that hard so I understood it quite fast.
+
+Today I asked again and just got sent some tickets to read through “to see if I understand what the customer wants.” which is so overwhelming.
+
+Another coworker told me to check out their validation logic cause I will be working with this part of the project, but there are a ton of files with different rules and it’s overwhelming to dig into alone at home.
+
+So now I’m just sitting here wondering: am I doing something wrong? Is it normal to feel this lost and useless in the first week? Or did I pick the wrong career path entirely?
+
+It’s super frustrating because I want to learn and contribute, but right now it feels like I’m just drifting.
+
+Has anyone else been in this situation? Is this just how the start usually feels, or is this a red flag?""","""I am a lawyer and first 7 years of junior lawyer feels like ass. Must be comparable.""",off-topic
+"""Important question: Was Friends actually funny?""","""Personally I consider HIMYM way less funny than Friends and I think its messages are much more traditionally toxic.""",related
+"""Is anime more mainstream than western cartoons?""","""If your definition of cartoon is ""western animation"", then anime pales in comparison to the monoliths that are Paramount's Nickelodeon, Disney, Pixar, DreamWorks, and Warner Bros.""",direct
+"""I had an R class and enjoyed the tool quite a bit which is why I dug my teeth a bit deeper into it, furthering my knowledge past the class's requirements. I've done some research on data science and apparently Python seems to be growing faster in the industry and in academia alike. I wonder if I should stop sinking any more time into R and just learn Python instead? Is there a proper GGplot alternative in Python? The entire Tidyverse package is quite useful really. Does Python match that? Will my R knowledge help me pick up Python faster?
+
+Does it make sense to keep up with both?
+
+Thanks in advance!
+
+EDIT: Thanks everyone! I will stick with R because I really enjoy it and y'all made a great case as to why it's worthwhile. I'll dig into Python down the line.""","""Learn both. R’s tidyverse packages are amazing and by far the most intuitive approach to data manipulation that I’ve ever worked with. R’s visualization capabilities via ggplot2 also blow Python’s out of the water, as do its inference packages (inference, not predictive).
+
+Python easily wins the “better base language, string manipulation, and machine learning” battle, but R’s packages make so many difficult procedures into one liners that I almost always use R over Python.""",direct
+"""Most toxic gaming community?""","""It's a small group. They're called Gamers.""",related
+"""As someone who has never cooked before how do I get into the world of cooking and make it a hobby? Share your answer""","""Get some kits (I started with Old El Paso tacos). Prepare the kit and pay attention to what you're doing as you work. Next time, get the ingredients yourself and duplicate the experience. You might keep the box for the ingredients and instructions. You've just followed a recipe. Get a recipe for something you want to eat and follow that one. Repeat.""",direct
+"""What sport do you play?""","""Wanna start competing in powerlifting comps""",related
+"""What's your honest opinion on Tinder?""","""Men outnumber women by a lot on any given dating app and it's more extreme than average on Tinder.
+
+Any app can work or fail depending partly on luck and partly on how you use it.""",direct
+"""Some countries absolutely own certain sports. Which sports could India own in the future?""","""Imagine being good at swimming and winning like 5-6 gold medals in the first 4 days. We could never...😮‍💨""",related
+"""Why are the U.S. and China's relations tense, but China still invited Trump to visit China, and why is Trump going?","""Trump was highly recommended by Putin to Xi for his stimulating massages and happy endings.😉""",direct
+"""How strong should you be to play curling? Hey all, i was thinking how strong you should be (especially in your arms) to play at least decently. I have seen some interviews and players sometimes say that throwing the stone doesn't require much strength, but i was wondering if that's true (maybe they are so trained that they minimize the actual effort). Also i was thinking that maybe sweeping is actually more difficult or i might be totally wrong, and maybe the strength come from your lower parts. I am trying to join a curling association/team to try the sport, but i've never been a ""sporty"" guy, and i am not so trained. thank you everyone in advance""","""At an Olympic level: Hit the gym 3-5 days a week. At a Club level: Gym? What's a gym?""",direct
+"""Some countries absolutely own certain sports. Which sports could India own in the future?""","""Grow kabaddi to an international sport""",direct
+"""Is this parmesan still good to eat?""","""Personally I would NEVER""",direct
+"""A question for everyone who does math (from undergrads to seasoned pros):
+
+Textbooks teach us the formal axioms, theorems, and proof techniques. But I've found that so much of the art of *doing* mathematics comes from the unwritten ""folk wisdom"" we pick up along the way; the heuristics, intuitions, and problemsolving strategies that aren't in the curriculum.
+
+I'm hoping we can collect some of that wisdom here. For example, things like:
+
+The ‘simple cases‘ rule: When stuck on a proof for a general n, always work it out for n=1, 2, 3 to find the pattern.
+The power of reframing: Turning a difficult algebra problem into a simple geometry problem (or vice-versa).
+A rule of thumb for when to use proof by contradiction:(e.g., when the ""negation"" of the statement gives you something concrete to work with).
+The ’wishful thinking’ approach: Working backward from the desired result to see what you would have needed to get there, which can reveal the necessary starting steps.
+What are your go to tricks of the trade, heuristics, or bits of mathematical wisdom that have proven invaluable in your work?
+
+P.S. I recently asked this question in a physics community and the responses were incredibly insightful. I was hoping we could create a similar resource here for mathematics!""","""You should read George Pólya's book “How to Solve it”. A big part of it is a compendium of these techniques and heuristics you say aren't found in textbooks.""",related
+"""What would it take for you to advocate for a Constitutional Convention in the USA?""","""I think there's a lot that the majority of the country could get behind. But big money would find a way to make gullible Americans think its a bad idea. Things I can think of easily (legislation in general not just amendments):
+
+Citizens United needs to go.  Okay money is speech - got it.  But the quantity of money is essentially volume.  And it’s obvious from Musk buying a large part of the last election, as well as PACs, that this has corrupted and changed our democracy in ways the founders did not intend.  What’s bothersome is that corporate and PAC money will be used on both sides of the aisle to prevent this from happening, I’m unsure of how it could be challenged in court (at least until two justices die).
+
+It’s time to re-work the electoral college.  Perhaps instead of senator representation for electors, it should be representatives, or something geographically regional, like combining small population states into a larger voting bloc.  Would be interesting to run the numbers and see what would have changed.  Or maybe something in between.  It’s just game theory, and the question is how to construct a better game, because getting rid of the EC is probably too big of a mountain to climb.  Whats needed is a system that more closely follows the popular vote without leaving the less populous areas behind.""",direct
+"""I struggle to define what topology actually is. Are there any short, pithy definitions that may not cover the whole field, but give a little intuition?""","""The study of proximity in spaces. For any topological space, open sets are in some sense measuring ""things that are close to each other."" Once you start studying that closeness itself and let any underlying structures which may have led to it fall away, you're doing topology.""",direct
+"""Important question: Was Friends actually funny?""","""It was forgettable funny. The Big Bang comparsons are apt. I never found either as terrible as the larger internet did, and can certainly find some laughs. But not something I seek out.""",direct
+"""When I look at the problems, I have no idea what methods to apply.
+
+I practice a lot.
+
+When eventually I give up and look at the solution, they just seem to know which solution to apply but don't really break down what in the question gave them the idea to use that - or how to start breaking down the problem to find the method to use.
+
+Now, I didn't feel like this so much in CALC I , II , even III. I understood the concepts at about same level as i did for differential equations (which is to say I feel like I can explain them to a 15 year old) and often I solved questions on those lower math classes just by knowing what formula to use by being familiar through lots and lots of practice.
+
+But I can't seem to get to that level in Differential Equations. Even with open book of methods, I can't seem to figure out what to plug in - or how to start breaking down the problem to get to a point where I can plug in a method .
+
+Is my brain missing something/ am I looking at this completely wrong?
+
+Is the simple answer just that I need to practice even more?
+
+Bonus question : IF all they care about is us understanding the concepts, why don't they provide the formulas/methods?
+
+sorry for the long text.""","""This is a very common sentiment in the area of early differential equations, and how I explain it to my students and think of it myself is this:
+
+In the introduction to differential equations uniqueness-existence theorems are often discussed and then quickly forgotten, but they are doing A LOT of heavy lifting. Under a uniqueness-existence theorem, if you find a solution that satisfies the the DE, you're done. You've found the unique solution. Why does it solve the DE and what was the motivation for trying this solution? Doesn't matter, it is the unique solution.
+
+If you understand that, then you can kind of see that introductory DEs are more of a history lesson of people literally using the guess and test method to find a solution by plugging in something that looks like it might work, then iteratively modifying it to get inconvenient terms to cancel out.
+
+When a solution is found this way for a general version of a DE of a certain class, boom, done. That whole class of DEs is completely solved. Why does it solve the DE? We don't care, we have a solution and we are under uniqueness existence, so we have the full solution. Why did we even try that solution? Because our first try looked kinda right and some slight modifications after seeing how the first try behaved when plugging it in led us to something right. Beyond that, we don't really have to care because we're not going to spend a bunch of time re-analyzing something that is completely solved.
+
+I know this is deeply unsatisfying, but that's kind of what uniqueness-existence does to solution strategies. What you are learning in early DEs are all of the classes of DEs that are completely solved and their corresponding solutions so that they can be put aside when you move on to the crazier stuff.""",direct
+"""What is your most strongly held political opinion?""","""Government and Church should be seperated""",direct
+"""This teacher of ours lectured us on how difficulty at coding in Notepad increases memorization of the tags and keywords used on HTML/CSS/Javascript, because VS Code will make learning ""easier and redundant"" for you thanks to its features like integrated Copilot and Autocompletion for example. Has anybody encountered these type of teachers before? How reasonable was this from your own experience?
+
+Edit: I've seen people here saying that I should use Notepad++, which I addressed to them but they said ""No"" because ""it's different and too advanced compared to Notepad"", and then they stopped elaborating the ""why"" of it. Probably they strictly want us to recommend using Notepad only on learning how to code.""","""I think it's a good idea up to a point. It surprises me how many people still struggle with basic syntax after months of learning.
+
+Eventually though when you start using external libraries and frameworks it makes sense to switch to something more powerful.""",direct
+"""What sport do you play?""","""competitive attic dwelling""",off-topic
+"""Are the Marvel movies any good?""","""Most aren't.""",direct
+"""What problem in the U.S. feels obvious to fix, yet never gets fixed?""","""To put it in one word
+
+Healthcare""",direct
+"""According to Wikipedia: ""Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data""
+
+Understood that collection and organization is covered from surveying, possibly experimental design, etc., but wouldn't it be prudent to be fluent in SQL/databases as part of a statistical curriculum? Especially since these systems are fairly popular and common?""","""In my Master's, there's wasn't a lot of room/time for more courses. Perhaps one or two could be swapped, but the truth is there's A LOT that one could consider essential for a stats person.
+
+SQL, python, R, and SAS could all have their own courses or pair of courses for intro/advanced. Then tack on your recommended database course. Sprinkle in the mandated number of electives and you've already got an entire year of courses without even touching real stats work.
+
+It's a tough balancing act.""",direct
+"""What is the best political system?""","""The US legislative branch is literally dysfunctional because of the two party system that's inevitable under our system, what do y'all mean it's the best!?""",related
+"""How do you feel about board games?""","""I love board games, but sometimes need time to get used to all of the different rules!""",direct
+"""According to Wikipedia: ""Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data""
+
+Understood that collection and organization is covered from surveying, possibly experimental design, etc., but wouldn't it be prudent to be fluent in SQL/databases as part of a statistical curriculum? Especially since these systems are fairly popular and common?""","""Relational db's are widespread, but there is almost always someone else whose job it is to babysit the database, and somebody who's supposed to do some analysis is going to work with that person.
+
+In any event, database stuff is something that you can learn along the way, just like a dozen other worthy and complex topics. When your boss says, ""We need to glue together Javascript, MS SQL Server 2003, and Fortran to make a dashboard showing fortnightly sales by zip code; can you do it?"" -- you say, ""Yes.""""",direct
+"""Most toxic gaming community?""","""I feel like we have this thread a lot""",off-topic
+"""If Trump is really mentioned in Epstein files so many times and the evidence is so damning, why would people in his administration (Bondi, Patel, et al) still be willing to protect a pedophile? Why do people continue to back this guy? Is their thirst for position and power so overwhelming?""","""Yes, to all your questions.""",direct
+"""What is your most strongly held political opinion?""","""MONEY. IS. NOT. SPEECH.
+
+CITIZENS UNITED is a literal cancer.""",direct
+"""Let’s Discuss: Who’s bigger, Taylor Swift or Michael Jackson?""","""I won't argue she is bigger than Michael Jackson, but you are talking BS. She is HUGE WORLDWIDE.""",direct
+"""Basically the title, it always seems to me there’s something new to study in whatever field there might be, whether it’s calculus, linear algebra, or abstract algebra. But it begs the question: is there a field of mathematics that is “complete” as in there isn’t much left of it to research? I know the question may seem vague but I think I got the question off.""","""Thanks to recent advances in AI we've been able to run through every likely iteration of, ""Bob has five apples and gives three to Jenny. How many apples does Bob have?""""",off-topic
+"""Derivatives were conceptualized originally as the slope of the tangent line of a function at a point. I’ve done 1.5 years of analysis, so I am extremely familiar with the rigorous definition and such. I’m in my first semester of algebra, and our homework included a question derivatives and polynomial long division. That made me wonder, is there a purely algebraic approach rigorous approach to calculus? That may be hard to define. Is there any way to abstract a derivative of a function? Let me know your thoughts or if you’ve thought about the same!""","""Not purely algebraic yet interestingly so, in manifold theory one defines the derivative of φ: M -> N as being a linear map between tangent spaces, or more generally a map between tangent bundles, which brings a tangent vector of p at M to a tangent vector of φ(p) at N.
+
+Where each tangent space (e.g. TpM) is constructed rather complicatedly as the set of formal ""derivations"" of equivalence classes of smooth functions at p, and is shown to be a vector space. For an Euclidean space Rn we show that TpRn is isomorphic to Rn as vector spaces, so this more general definition also coincides with the usual derivative.
+
+So the general derivative is a linear map between vector spaces. Mathematicians often think of the derivative as being the linear map which ""best approximates"" the original function at that point. From the manifold point of view the derivative simply maps a tangent vector to another tangent vector.
+
+The manifold definition relies of course on the definition of euclidean derivatives and smooth maps (and you need a topology), however as a generalisation to manifolds it feels quite algebraic rather than analytic.
+
+Observe that under this definition, the chain rule is merely the statement that the map:
+
+F: brings pointed manifolds (M, p) to their tangent spaces (TpM) and functions (φ: M -> N) between manifolds to their derivatives (Dφ: TpM -> Tφ(p)N)
+
+is a functor between the category of pointed manifolds and the category of vector spaces. Beautiful!""",related
+"""What do you guys think about fireworks?""","""Pretty but equally as annoying. MY NEIGHBOR HAS BEEN SETTING THEM OFF SINCE JUNE IM GONNA FREAKIN LOSE IT""",direct
+"""Is it accurate to say that right wing ideology prioritizes hierarchy over equality?""","""Funny it's always the leftist saying what Conservatives think and believe. Such great mind readers they are""",related
+"""This teacher of ours lectured us on how difficulty at coding in Notepad increases memorization of the tags and keywords used on HTML/CSS/Javascript, because VS Code will make learning ""easier and redundant"" for you thanks to its features like integrated Copilot and Autocompletion for example. Has anybody encountered these type of teachers before? How reasonable was this from your own experience?
+
+Edit: I've seen people here saying that I should use Notepad++, which I addressed to them but they said ""No"" because ""it's different and too advanced compared to Notepad"", and then they stopped elaborating the ""why"" of it. Probably they strictly want us to recommend using Notepad only on learning how to code.""","""I think the idea is right, but the execution is faulty. Notepad is TOO primitive. As a teacher, I think you have to walk a fine line between making sure your students learn while still making sure their experience applies to the real world. Using Notepad for most kinds of coding/programming isn’t very practical.
+
+I think Notepad++ is a happy middle. It’s still an IDE, but it doesn’t hold your hand too much. It offers very basic functionality like keyword coloring and I believe automatic indenting. However, it doesn’t try to finish lines of code for you or do anything too intrusive.""",direct
+"""How do you feel about Trump threatening to impose photo ID for voters for midterm elections?""","""If they want to have some sort of voter ID, then the government should supply these IDs, free of charge. It's that simple. But that's not what Trump wants. He wants to suppress the vote. Because he knows how these midterms are going to turn out if he doesn't do something illegal""",direct
+"""So my boss recently told me that try-catch statements are ""garbage"" and that I should avoid using them when developing. This wasn't specific to any particular language - they seemed to mean it as a general programming principle. I'm pretty confused because I thought error handling with try-catch was fundamental to most modern programming languages. I know it can be misused (like catching exceptions and doing nothing, or using exceptions for control flow), but completely avoiding it seems extreme. Is there some programming philosophy or best practice I'm missing here? Are there alternatives to try-catch that are considered better? Or is my boss maybe referring to specific anti-patterns that I should be aware of? Has anyone else encountered this ""no try-catch"" philosophy? What are the actual best practices around exception handling across different languages? Any insight would be really helpful - I want to understand if there's something legitimate here or if I should push back on this guidance.
+
+‐--------------------------------------------------------------------------------
+
+When people say vague things like ""That's not good programming,"" I always ask, ""Why?"" Why is it garbage? Why is it bad design? Why isn't it good programming?
+
+When I asked that, they said, ""You should at least make a program that doesn't produce errors,"" and then laughed at me.
+
+Anyway, thanks for all the responses. I posted this because I was genuinely confused after that conversation and wanted to see if I was missing something obvious.""","""Tell your boss he needs to
+
+Try:
+
+Harder:""",off-topic
+"""People who swore an oath to defend the constitution of the USA against all enemies both foreign and domestic, how are you feeling right now?"" ","""I feel like the military I served in no longer exists. Im saddened mostly.""",direct
+"""Is there a politician you strongly disagree with politically but still respect? Why?""","""The County Judge one county over from me.
+
+(For anyone unaware, in my state the County Judge is the chief executive of a county’s government). When I was a journalist, I would cover county politics for a small town newspaper. The County Judge and I had very different politics, but I truly believe he was a good leader for the county and was very helpful as a source. We both respected each other’s jobs. When I was let go from the paper, he sent me some very""",direct
+"""Is anime more mainstream than western cartoons?""","""Attack on Titan S4P1 was the most in demand TV show in the world in 2021. Easily""",related
+"""What is the best movie you watched in 2025 and why did it stay with you?""","""Are you staying for the discussion or is this another drive by posting ?""",off-topic
+"""What sport do you play?""","""Archery before climbing is kinda goofy""",off-topic
+"""How would Republicans react to the last year if Trump was a Democrat?""","""Wouldn’t have been possible. He would’ve been jailed immediately after J6""",direct
+"""Has Sports betting really ruined most sports? Is the damage really that big?""","""Not hockey, at least not yet, those guys are just built different.""",related
+"""Parmesan rind substitute? I keep being intrigued with recipes that turn out to call for a parmesan rind. Which I've never had and can't honestly say I expect to have, really - I just don't use parmesan much. I'm assuming that for the usual (soup or stew) recipes that call for this, probably throwing in an equivalent weight of actual cheese is not the answer 😂 So... what's my best bet? MSG? Fish sauce? Something else? Just shrug and omit it? Pass on the recipe altogether?""","""Huh, I’ve always chucked the rind. Good to know.""",direct
+"""How would Republicans react to the last year if Trump was a Democrat?""","""how they always do - with fake selective outrage. Look at all the Hunter Biden and Hilary's email backlash there was. Imagine if it wasn't their guy that was the pedo""",direct
+"""If COBOL is so problematic, why does the US government still use it?
+
+After reading that news article, I found reddit post PSA: Don't try to learn COBOL closed, so this was why I opened this one to add relevant and current information.""","""Because rewriting a system from scratch is bonkers expensive.
+
+I was on a team that migrated a roughly 600k loc cosebase from old school C# to .Net Core and it took years.
+
+Rewriting a decades old mission ciritical COBOL system with milliona of LoC in a modern language would cost hundreds of millions.""",direct
+"""I recently started learning complexity theory in my scheduling course. I was told many people believe P != NP, but wasn't provided any reasoning or follow-ups. So I do be wondering.
+
+Any eye-opening explanations/guidance are welcomed.""","""Here's a great survey on the subject. See section 3: Beliefs About P ?= NP.
+
+To my mind, however, the strongest argument for P≠NP involves the thousands of problems that have been shown to be NP-complete, and the thousands of other problems that have been shown to be in P. If just one of these problems had turned out to be both NP-complete and in P, that would’ve immediately implied P=NP. Thus, we could argue, the P≠NP hypothesis has had thousands of chances to be “falsified by observation.” Yet somehow, in every case, the NP-completeness reductions and the polynomial-time algorithms “miraculously” avoid meeting each other—a phenomenon that I once described as the “invisible fence”.
+
+And Aaronson's full blog post on the topic, The Scientific Case for P≠NP: https://scottaaronson.blog/?p=1720
+
+EDIT: Actually an even better reference is his post Reasons to believe which goes over 10 different informal arguments: https://scottaaronson.blog/?p=122""",direct
+"""Just been thinking about this lately... been coding for like 3 yrs now and realized some tiny habits I picked up have made my code wayyy better.
+
+For me it was finally learning how to use git properly lol (not just git add . commit ""stuff"" push 😅) and actually writing tests before fixing bugs instead of after.
+
+What little thing do you do thats had a huge impact? Doesn't have to be anything fancy, just those ""oh crap why didnt i do this earlier"" moments.""","""Taking 1 hr a week and getting better at a tool you use. Doesn't matter the tool, an old co worker suggested this. So if you use VS Code a bunch, take 1 hr a week or every 2 weeks (depending on if you are working or not, we got this for free as ""our time"" at work) and just get better with that tool.
+
+We used to use slack and switched to Teams. EVERYONE on the dev team hated this move but I took that 1hr we got on Friday and just got better with Teams and it became something that wasn't a big deal.""",direct
+"""What do you guys think about Jimmy Fallon?""","""Don’t love everything he does but The Barry Gibb Show is genius.""",direct
+"""Does this generation watch Harry Potter?""","""Read them over the last 4 months and watched the movies side by side for the first time""",direct
+"""Is basketball not a popular sport in China? r/AskChina - Is basketball not a popular sport in China? It’s surprising to me how Korea can beat China, considering it’s such an unpopular sport here that we don’t even get TV broadcasts.""","""""Chicken you are so beautiful."" dribbles""",off-topic
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""i started playing at 12 reached state level by 17, class 12 came and i had to dropp the sport. Like me there are millions of athletes had to quit sports and as a result india will never succeed in sports""",related
+"""Did Canada cheat during the curling game against Sweden?""","""Following up. The Men against Sweden. They have also been accused by the Swiss for the same move. And now the Women against the Swiss - in this case, they pulled the rock in question off. Sounds like yes, we did.""",direct
+"""So my boss recently told me that try-catch statements are ""garbage"" and that I should avoid using them when developing. This wasn't specific to any particular language - they seemed to mean it as a general programming principle. I'm pretty confused because I thought error handling with try-catch was fundamental to most modern programming languages. I know it can be misused (like catching exceptions and doing nothing, or using exceptions for control flow), but completely avoiding it seems extreme. Is there some programming philosophy or best practice I'm missing here? Are there alternatives to try-catch that are considered better? Or is my boss maybe referring to specific anti-patterns that I should be aware of? Has anyone else encountered this ""no try-catch"" philosophy? What are the actual best practices around exception handling across different languages? Any insight would be really helpful - I want to understand if there's something legitimate here or if I should push back on this guidance.
+
+‐--------------------------------------------------------------------------------
+
+When people say vague things like ""That's not good programming,"" I always ask, ""Why?"" Why is it garbage? Why is it bad design? Why isn't it good programming?
+
+When I asked that, they said, ""You should at least make a program that doesn't produce errors,"" and then laughed at me.
+
+Anyway, thanks for all the responses. I posted this because I was genuinely confused after that conversation and wanted to see if I was missing something obvious.""","""The general rule I go by is to only use it where you plan on doing something with it.
+
+It's great for when you're taking input from outside the app and want to be prepared for something put in the fog of war might not work.
+
+Trying a SQL connection because maybe the network is down and then being able to handle the miss gracefully.
+
+Trying to read a file for a config or something, and being able to alert the user that it's not there or otherwise adjust how you behave.
+
+Some people will overuse it though and will have it in their flow, like catching divide by zero or whatnot when that's something that may be better handled by prevention or planning""",direct
+"""Do Americans think Russia is still a great power?""","""Very weak, should have been taken out long ago.""",direct
+"""Why Chinese football⚽️ sucks? With a population of 1.4 billion and many Chinese people who like football, why are they not as good at football as other East Asian countries like South Korea and Japan? I wonder why.""","""YO STOP THIS IS THE SECOND POST IVE SEEN TODAY 😭""",off-topic
+"""I really dont understand it. Im a first year student and have found myself using AI quite often, which is why I have been able to find very massive flaws in different AI software.
+
+The information is not reliable, they suck with large scale coding, they struggle to understand compiling errors and they often write very inefficient logic. Again, this is my first year, so im surprised im finding such a large amount of bottlenecks and limitations with AI already. We have barely started Algorithms and Data Structures in my main programming course and AI has already become obsolete despite the countless claims of AI replacing software engineers in a not so far future. Ive come up with my own personal theory that people who say this are either investors or advertisers and gain something from gassing up AI as much as they do.""","""There's four kinds of people that hate software engineers:
+
+People that don't want to pay software engineers
+
+People that regularly have to talk to software engineers
+
+Software engineers
+
+People that think software engineers aren't an integral part of engineering software, such as idea guys, pitch men, and anyone that claims not to be in group 1 because they know of a cheaper way to get their software engineered""",related
+"""What’s stopping a normal person from becoming president in the US?""","""The entire system is set up to favor those who can raise massive sums of money. And you don't get there without the wealthiest people approving of it. Bernie is a great example. He was raising big sums of money from people--from actual voters. When the DNC saw that, they ended Obama-era bans on PAC money so that the wealthiest people could pour money into Hillary's campaign. And it worked.""",direct
+"""Important question: Was Friends actually funny?""","""The answer is no.""",direct
+"""The Office. Good or Overrated?""","""It's really good until Jim and Pam get together, and then it really falls off when Michael leaves (which should have been the end of the series, IMO).""",direct
+"""I really dont understand it. Im a first year student and have found myself using AI quite often, which is why I have been able to find very massive flaws in different AI software.
+
+The information is not reliable, they suck with large scale coding, they struggle to understand compiling errors and they often write very inefficient logic. Again, this is my first year, so im surprised im finding such a large amount of bottlenecks and limitations with AI already. We have barely started Algorithms and Data Structures in my main programming course and AI has already become obsolete despite the countless claims of AI replacing software engineers in a not so far future. Ive come up with my own personal theory that people who say this are either investors or advertisers and gain something from gassing up AI as much as they do.""","""Because they’re not software engineers and they’re buying into the hype.""",direct
+"""What’s an underrated comedy film that you thoroughly enjoyed?""","""Last years “The Snack Shack”. Solid little coming of age comedy. Probably not an instant classic but deserved more attention than it got.""",direct
+"""Parmesan rind substitute? I keep being intrigued with recipes that turn out to call for a parmesan rind. Which I've never had and can't honestly say I expect to have, really - I just don't use parmesan much. I'm assuming that for the usual (soup or stew) recipes that call for this, probably throwing in an equivalent weight of actual cheese is not the answer 😂 So... what's my best bet? MSG? Fish sauce? Something else? Just shrug and omit it? Pass on the recipe altogether?""","""How much rind? Go buy a wedge of parm and use the rind.""",direct
+"""What is your take on people who say they’re not political or that they hate politics?""","""I respect it. The western political system makes you feel like it's a bit pointless to get involved. Also there are many other distractions in life, politics doesn't take centre stage for many people and it's divisive.
+
+My only gripe is when people moan about politics but don't vote. I don't have any issue with not participating, but having strong opinions while not voting is counter productive.""",direct
+"""What do you guys think about fireworks?""","""I don’t see the appeal to them honestly. I think they are loud and not interesting at all, like I can’t see why people sit outside to watch the fireworks…""",direct
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""After 15 years cooking I farm shellfish now. Best thing I ever did.""",direct
+"""Is there a politician you strongly disagree with politically but still respect? Why?""","""If Bernie Sanders didn’t constantly roll Oand play dead for the Democratic Establishment I’d respect him a lot.""",direct
+"""The Office. Good or Overrated?""","""Good. The super fans are annoying tho.""",direct
+"""What’s stopping a normal person from becoming president in the US?""","""What about Obama? That’s as close to normal as we have had in a while. Maybe Clinton too, if you look at childhood. No privilege, family oriented aristocracy.""",direct
+"""What’s stopping a normal person from becoming president in the US?""","""You have to convince either party to endorse you or you’re done for. You gotta owe someone something or you’re never going to make it. Ross Perot proved that.""",direct
+"""Hey all,
+
+I went to a hackathon this weekend, and so many people were able to create these nice website UI's, with words that changed colors and the background was super colorful; I have no idea how any of this could've been created from scratch using just coding. I was wondering if someone could tell me how these UI's can be made in such a short time?""","""A simple react front-end isn't terribly difficult to spin up quickly nowadays. Plenty of sites like Framer and Figma will give you the code.""",related
+"""What non-political opinion gives away someone's politics?""","""""People just need to stop complaining""""",direct
+"""Those who have quit social media. Did you life get better/worse?""","""What counts as social media? I tried quitting Instagram and Facebook but YouTube i still have""",related
+"""If someone asks me ""who is the actor in that film about blah blah"" and I say ""I'm 95% sure it's Tom Cruise"", then what I mean is that for 95% of these situations where I feel this certain about something, I will be correct. Obviously he is already in the film or he isn't, since the film already happened.
+
+I see confidence intervals the same way. Yes the true value already either exists or doesn't in the interval, but why can't we say we are 95% sure it exists in interval [a, b] with the INTENDED MEANING being ""95% of the time our estimation procedure will contain the true parameter in [a, b]""? Like, what the hell else could ""95% sure"" mean for events that already happened?""","""A 95% confidence interval has nothing to do with the subject at hand, only with our uncertainty around subject. Whether we are studying event that happened in the past or the future is irrelevant—if we are uncertain about an estimate, we use statistics to describe our uncertainty.
+
+And even in an event where we have a one or is zero as our outcome (binary data, such as did he or did he not appear in a film) we can still quantify our uncertainty of one or zero by attaching weights to either outcome.""",direct
+"""Why does sports betting seem like it's something you could easily profit on but you really can't?""","""The house always wins. Overall. Most of the time.""",direct
+"""Most toxic gaming community?""","""3 most toxic places in the world.
+
+3.Fukushima Daiichi Nuclear Plant, Japan
+2.Chernobyl, Ukraine
+1.League of Legends""",direct
+"""Is anime more mainstream than western cartoons?""","""I'm from HK, and i can say Anime is dominant in ASIA.""",direct
+"""How does this sub genuinely feel about talk shows?""","""Once David Letterman retired, so did I from watching them.""",related
+"""Tea on soccer (football) players or teams? Anything really! Like joao felux, jude bellingham, riccardo calafiori etc""","""The Man City squad is apparently filled with serial cheats (pun intended) even by footballer standards. Obviously Walker’s secret other family is well publicised but Foden and Grealish are apparently notorious in Manchester for CONSTANTLY cheating on their partners""",direct
+"""What problem in the U.S. feels obvious to fix, yet never gets fixed?""","""Removing the pedophile trafficking ring from government would be a good thing to fix.""",direct
+"""Hey everyone,
+
+I just finished a numerical linear algebra module, and my brain is still recovering. We covered the QR algorithm for finding eigenvalues, which involved first doing the QR decomposition (we used the Gram-Schmidt process, which felt like manually building a cathedral out of toothpicks).
+
+So it got me thinking: why do all the textbooks and AI and some sources keep calling the QR algorithm one of the most significant and useful algorithms of the entire 20th century?
+
+I get that finding eigenvalues is hugely important. But what makes the QR algorithm so special compared to other methods?
+
+Is it just because it's very stable and accurate?
+Does it work on a special kind of matrix that shows up everywhere?
+Is it secretly running in the background of technology I use every day?
+Can someone help connect the dots between the tedious Gram-Schmidt grind and the monumental real-world utility of the final algorithm? What are the ""killer apps"" that made it so famous?
+
+Thanks!""","""It's perhaps worth noting that if you were looking at Gram-Schmidt, what you were looking at was not really the form of the QR algorithm that is used. The full algorithm involves an initial Hessenberg reduction using Householder transformations applied as similarities and then implicit shifting that is done to perform the iteration while accelerating convergence through a good choice of shift. Gram-Schmidt is not involved, although the real QR algorithm can be viewed as a way to do those repeated QR factorizations implicitly without actually computing them.
+
+The reason it has been so popular is that it really was the only reasonable option for many years and it's still essential for nonhermitian problems. The fact that we have been able to reliably compute eigenvalues numerically since about 1960 has largely been due the QR algorithm. Among its good points are that it is perfectly stable and, with a good shifting strategy, it converges quickly and predictably enough that it's practical behavior is more like a direct method in which you know the amount of computation involved up front, even though it involves iteration. It's still really the only good option for dense non-hermitian problems (and therefore also an essential component of most algorithms for large sparse non-hermitian problems.) Except for the Jacobi method (which is slower), the faster alternatives to QR iteration for dense hermitian problems didn't really become fully adequate replacements until the 90s (divide and conquer) or later (MRRR), so the QR algorithm has historically also been very important for hermitian problems. It's still not a bad algorithm in that context.""",related
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""Tennis is a good sport but takes lots of money to afford.""",related
+"""Is everything we drink a suspension/solution/emulsion/etc. of one of these two liquids?""","""In addition to your standard oils.. Propylene glycol and corn syrup are common food additives. If you wanted a full list you could start here: https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?set=SCOGS&sort=Sortsubstance&order=ASC&startrow=1&type=basic&search= and look up which of these are liquid at room temp. Of course there are things that aren’t safe but could technically be consumed in reasonable quantities without dying. For example, acetone is somewhat similar toxicity to ethanol.""",direct
+"""Tea on soccer (football) players or teams? Anything really! Like joao felux, jude bellingham, riccardo calafiori etc""","""My brother played football with Dele Alli and was good friends with him when he was at MK Dons and I met him a few times. Despite the public perception of him he's actually a really nice lad and it's a shame to see how his career has gone, he was a generational talent. Also know Leah Williamson, has gotten us tickets for games in the past, great girl. I mentioned this on r/Gunners once and some guy wouldn't leave me alone asking questions about her like some fucking creep. Oh and this story is about Thomas Partey, who has been playing for my team in spite of these allegations and it's a fucking disgrace.""",direct
+"""Is Fortnite worth playing still?""","""Hopefully you got arcane and Naruto skins because you fixing to Miss out""",related
+"""How would you feel about Askreddit banning ""How Do You Feel"" posts about politics and current events?""","""I'm for it. Half of these posts are just political opinions weakly disguised as questions.""",direct
+"""Has Sports betting really ruined most sports? Is the damage really that big?""","""Basketball has been affected the worst by sports betting.""",related
+"""What is your most strongly held political opinion?""","""How can we feel like an equal democracy, if we only have 2 parties consistently represented?""",direct
+"""Somebody posted the above in r/cursedchemistry. I have a high school understanding of chemistry and took a fair amount of physics courses in my undergrad (up to introductory quantum and thermo courses), I can kinda understand how chemists could derive the structure of something like water where you break it down into hydrogen and oxygen, measure how much you get of each, and then you logic/math/physics your way to the chemical structure… but how do you even begin getting the structure for something complex like the pictured compound?""","""there's something called iupac nomenclature, it's the standard for naming chemical compounds, you start with the longest chain, there's a priority table to all elements and groups of elements, for both organic and inorganic chemicals, cant really remember how the protocol goes, but it is very sophisticated, there are compiter programs that output a name for any compound you enter, but for something this long, they would probably just give it a nickname, because nobody is reading a whole line long name""",related
+"""While on my honeymoon in Rome six years ago I had a whipped cheesecake that I've thought about almost every day since and it's slowly driving me mad. Could I possibly recreate this at home? The chief at Pianostrada in Rome didn't know how much her cheesecake was going to be living rent free in my head for over half a decade, but here we are. While on my honeymoon in Italy I had a whipped cheesecake at restaurant Pianostrada that I simply cannot stop thinking about. Easily one of the top five things I've ever eaten, and now I'm on a mission to try and recreate it. I know the people of Italy have access to higher fat milks and cheeses, allowing for greater flavors than what I can access here in Canada, but I need to at least try to make this at home. I can make a pretty good bake or non bake regular cheesecake at home, but I NEED this beautiful light and airy cheesecake in my life again, even if it's half as good I'll be happy. Could any of you suggest how to create a cheesecake that had a smooth flavor, without the brightness (lemon zest?) you usually find in homemade cheesecake, it was piped onto the plate (not necessary, I'd be fine to just scoop it out of a bowl), but with a texture of almost like a moose, the opposite of a usually dense cheesecake. Any pointers would be great, Thanks all. I've found a photo of it from a review. https://imgur.com/a/XPHWBfK""","""You should call or email the restaurant, they would’ve the best at giving you pointers and they very well just may give you the actual recipe if they aren’t too guarded with it.""",direct
+"""What’s an underrated comedy film that you thoroughly enjoyed?""","""I’ve seen 20 minutes of this and turned it off because I was bored.""",related
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""tt can grow, but tennis requires a lot and lot of money. It's expensive all over the globe not just india""",direct
+"""How would you feel about Askreddit banning ""How Do You Feel"" posts about politics and current events?""","""Ban em. Those posts and the fake r/OutOfTheLoop posts are just people gaming the system to rant and/or farm karma. It’s super circle-jerky.""",direct
+"""Tinder review: Is it worth using right now?""","""That said, Tinder isn’t automatically shallow. Some people genuinely meet long term partners there. It just takes patience and a thick skin because there’s a lot of noise before you find someone who clicks. If you go in expecting instant magic, you’ll burn out fast.""",direct
+"""Tea on soccer (football) players or teams? Anything really! Like joao felux, jude bellingham, riccardo calafiori etc""","""Not gossip but I have taught many men in my life how to remember the date of Valentine’s Day by telling them it’s also Christian Eriksens birthday that day.""",off-topic
+"""Important question: Was Friends actually funny?""","""I watched this show because Jennifer Anniston was cold on the set. That’s it.""",related
+"""While on my honeymoon in Rome six years ago I had a whipped cheesecake that I've thought about almost every day since and it's slowly driving me mad. Could I possibly recreate this at home? The chief at Pianostrada in Rome didn't know how much her cheesecake was going to be living rent free in my head for over half a decade, but here we are. While on my honeymoon in Italy I had a whipped cheesecake at restaurant Pianostrada that I simply cannot stop thinking about. Easily one of the top five things I've ever eaten, and now I'm on a mission to try and recreate it. I know the people of Italy have access to higher fat milks and cheeses, allowing for greater flavors than what I can access here in Canada, but I need to at least try to make this at home. I can make a pretty good bake or non bake regular cheesecake at home, but I NEED this beautiful light and airy cheesecake in my life again, even if it's half as good I'll be happy. Could any of you suggest how to create a cheesecake that had a smooth flavor, without the brightness (lemon zest?) you usually find in homemade cheesecake, it was piped onto the plate (not necessary, I'd be fine to just scoop it out of a bowl), but with a texture of almost like a moose, the opposite of a usually dense cheesecake. Any pointers would be great, Thanks all. I've found a photo of it from a review. https://imgur.com/a/XPHWBfK""","""That sounds like a whipped mascarpone style cheesecake, not baked, with very little sugar and no citrus, probably lightened with softly whipped cream or even meringue. I’d start with mascarpone plus full fat cream cheese, whip gently, skip lemon entirely, and think texture over sweetness.""",direct
+"""Are the Marvel movies any good?""","""I stopped watching Marvel's movies after Avengers: Endgame. """,related
+"""Who is the most globally recognized Athlete in history?""","""Right now, Cristiano Ronaldo. All time, im not sure, but definitely still a soccer player""",direct
+"""What are your top albums of 2025 so far?""","""Sky Flowers by Encounter at L-5""",direct
+"""I am aware that the fluoride toothpaste is Stannous fluoride or sodium fluoride. However, I thought that the primary method of harm was the free F- ion attacking the nerve electrolyte reuptake (the Ca and Na absorptions). In that case, the F- which is present in both HF and toothpaste formulas. So why doesn’t it hurt us when it’s in toothpaste?
+
+To be clear, I am not asking what the benefits of using fluoridated toothpaste and drinking water is; the benefits are clear. I just what to know the chemical mechanism behind why it’s safe as a compound, but not as an acid, when the danger is in the F- ion which is still present in non acid compounds.""","""I'm very confused - did you say you got a chemical burn from 1% HF? With no other acid involved?
+
+I'm assuming your exposure went unnoticed for some time and that the burn was either on a mucous membrane (or, god forbid, your eye) or something like the side of your fingernail where the product would sit undisturbed. 1 drop of 1% HF on otherwise unbroken skin would take significant time to produce a chemical burn -that's half of the problem with low concentration HF, you just don't notice the exposure. VERY different to higher concentrations.
+
+I work with 35% HF (in industrial (tonnage) quantities) on a regular basis - post process wash down is just as important as having all of the other PPE and safety considerations in place. That should be part of the process - not just having the right PPE while handling, but finishing the job properly.""",related
+"""Donald Trump just said “we shouldn’t even have an election”. Americans, what are your thoughts?""","""He's grooming the Republicans.""",direct
+"""Whether you take it or not, what do you think it’s the hardest HL subject?""","""any lang b that's not ur native language is an underrated difficult hl""",direct
+"""Are the Marvel movies any good?""","""Not the recent ones. Watch Iron Man. It's legitimately a good movie and very fun.""",direct
+"""As someone who has never cooked before how do I get into the world of cooking and make it a hobby? Share your answer""","""""Food Wishes"" channel on Youtube. Short videos, no b.s., the guy knows that lots of his viewers are not pros. It's made to teach you how to cook. He's got maybe thousands of videos by now, millions of followers. Just start watching some vids. Most vids are 10 mins or shorter.""",direct
+"""How do you feel about California introducing a bill to ban former ICE agents from serving as police officers or teachers?""","""Disagree. Unless an individual is convicted of a felony they should be allowed to apply. In a state that values second chances this is awfully unforgiving""",direct
+"""How would you feel about Askreddit banning ""How Do You Feel"" posts about politics and current events?""","""Absolutely for it; they are ruining the sub IMO and are just used for people that want to karma farm""",direct
+"""Parmesan rind substitute? I keep being intrigued with recipes that turn out to call for a parmesan rind. Which I've never had and can't honestly say I expect to have, really - I just don't use parmesan much. I'm assuming that for the usual (soup or stew) recipes that call for this, probably throwing in an equivalent weight of actual cheese is not the answer 😂 So... what's my best bet? MSG? Fish sauce? Something else? Just shrug and omit it? Pass on the recipe altogether?""","""Using Parmesan rind is just an opportunistic use of something that would otherwise be thrown away, so don't go out of your way to get one just for one recipe. Assuming you're cooking italian the most appropriate sub would be some anchovies, but otherwise msg, fish sauce, Worcestershire sauce, even a splash of dark soy sauce would be fine.""",direct
+"""While on my honeymoon in Rome six years ago I had a whipped cheesecake that I've thought about almost every day since and it's slowly driving me mad. Could I possibly recreate this at home? The chief at Pianostrada in Rome didn't know how much her cheesecake was going to be living rent free in my head for over half a decade, but here we are. While on my honeymoon in Italy I had a whipped cheesecake at restaurant Pianostrada that I simply cannot stop thinking about. Easily one of the top five things I've ever eaten, and now I'm on a mission to try and recreate it. I know the people of Italy have access to higher fat milks and cheeses, allowing for greater flavors than what I can access here in Canada, but I need to at least try to make this at home. I can make a pretty good bake or non bake regular cheesecake at home, but I NEED this beautiful light and airy cheesecake in my life again, even if it's half as good I'll be happy. Could any of you suggest how to create a cheesecake that had a smooth flavor, without the brightness (lemon zest?) you usually find in homemade cheesecake, it was piped onto the plate (not necessary, I'd be fine to just scoop it out of a bowl), but with a texture of almost like a moose, the opposite of a usually dense cheesecake. Any pointers would be great, Thanks all. I've found a photo of it from a review. https://imgur.com/a/XPHWBfK""","""I know it's a typo, but moose texture is also one of my favourites.""",related
+"""How do you feel about board games?""","""Fully agree with you. Honestly they make me sleepy af.""",direct
+"""How popular is Table Tennis in China? How popular is Table Tennis in China? China is by Far the best nation in Table Tennis, they absolutely dominate the sport, but How popular is the sport in People? How famous someone like Ma Long or Fan Zhendong is in China?""","""I lived in China for more than 10 years and I never encounter someone that dont know some basic ping pong. It's that popular.""",direct
+"""What non-political opinion gives away someone's politics?""","""They casually comment about moving to Portugal.""",direct
+"""What's your honest opinion on Tinder?""","""All the apps are trash. There was a conspiracy theory That the algorithm is set to find who would be a really good match and then make sure that they don't meet because if people matched and met and actually fell in love then there would be nobody using the app. Shareholders don't like less people using their apps So they skew it one way or another and have people blame each other when really the app is designed against us.""",direct
+"""Do you believe Tennis as a sports can grow in India? r/GenZIndia - VDiA Sania Mirza (Tennis) Manika Batra (Table Tennis) JaRA Table Tennis especially if we look at Olympics. What's your thoughts?""","""The right question is - Does India have the infrastructure to promote tennis?""",related
+"""Some countries absolutely own certain sports. Which sports could India own in the future?""","""is table tennis genetics or skill based. Genetics is say short distance sprint, long distance running, swimming etc, does it belong in that category?""",related
+"""Tea on soccer (football) players or teams? Anything really! Like joao felux, jude bellingham, riccardo calafiori etc""","""No, but the Lazio falconer saga is the most unhinged thing in football and I’m just waiting for the next crazy thing to happen.""",direct
+"""When I look at the problems, I have no idea what methods to apply.
+
+I practice a lot.
+
+When eventually I give up and look at the solution, they just seem to know which solution to apply but don't really break down what in the question gave them the idea to use that - or how to start breaking down the problem to find the method to use.
+
+Now, I didn't feel like this so much in CALC I , II , even III. I understood the concepts at about same level as i did for differential equations (which is to say I feel like I can explain them to a 15 year old) and often I solved questions on those lower math classes just by knowing what formula to use by being familiar through lots and lots of practice.
+
+But I can't seem to get to that level in Differential Equations. Even with open book of methods, I can't seem to figure out what to plug in - or how to start breaking down the problem to get to a point where I can plug in a method .
+
+Is my brain missing something/ am I looking at this completely wrong?
+
+Is the simple answer just that I need to practice even more?
+
+Bonus question : IF all they care about is us understanding the concepts, why don't they provide the formulas/methods?
+
+sorry for the long text.""","""It's a lot like learning methods of integration (which a lot of people also hate because it seems like a random grab bag of tricks), which makes sense since finding antiderivatives is, of course, a specific example of solving a differential equation.
+
+The underlying issue is this: Most explicit functions do not have antiderivatives that can be written down explicitly. Similarly, most differential equations do not have solutions that can be written down explicitly. However, in both cases it is worth understanding the cases that can be solved explicitly!
+
+This is because those cases are disprortionately useful because simple cases are the ones that come up most frequently, and because these simple cases provide a foundation for one's intuition. The real problem is that differential equations are so difficult that even learning the ""easy cases"" ends up burning through several weeks of a differential equations course, leaving the impression that this is what the subject is about, whereas it's really supposed to be just a starting point.
+
+With all of that said, there are few enough techniques one learns in a typical ODE course that it shouldn't be that hard to figure out which one to use. In fact, one could probably write down a reasonable flow chart explaining what you should try in what situation (though it would be really tedious).""",direct
+"""Former cooks/chefs, what do you do now? Been in the industry about 15 years and honestly getting a bit burnt out. I use to love cooking but the passion is fading. Ive recently begun quitting weed (going from heavy user to a lot less and now weaning off of it) and have been dabbling with the idea of leaving the industry since weed has really been the only thing holding me back from other jobs and the knowledge that even loving to cook I dont want to do this the rest of my life. So Former cooks, what do you do now and how did you get into it? Do you like it?""","""I'm a banker now. Was hired into it and had no idea what I was doing. A couple months in, I really like it. People can get bitchy about their money but food service has prepared me for much worse interactions.""",direct
+"""What do Chinese people think about Yang Hansen? i know Basketball is the most popular sport in China so i assume most chinese know him. What do you guys think about him.""","""The kid looks very promising. Hope he can carve out a long and productive career. Very sad that Yao had to retire very young because his body was just too big.""",direct
+"""Let’s Discuss: Who’s bigger, Taylor Swift or Michael Jackson?""","""It's MJ and it isn't even remotely close.""",direct
+"""What do you guys think about fireworks?""","""my cat started having a panic attack, so I'm currently sitting with him instead of watching.""",related
+"""How much do you spend on groceries per month? How much do you spend on groceries per month for a single person?""","""Around 500""",direct
+"""People who swore an oath to defend the constitution of the USA against all enemies both foreign and domestic, how are you feeling right now?"" ","""I will maintain my oath. As the government turns its back on the constitution more and more, I will not follow. I remember the promise of the American Dream and will not be a pawn to pushing it back.
+
+Edit: I want to make it clear on what will be done.
+
+I will only advocate for legal means. Being involved in your community. Attending protests and being an observer and recording. Exercising my rights. Doing my best to inform others without alienating them so the effort can grow. Making my voice heard by my representatives at local, state, and federal levels.
+
+I will reject illegal and unconstitutional orders and I will whistleblow if anything around me occurs.
+
+If you are looking for someone to make a different statement on a public social media then it shouldn't happen.""",direct
+"""What is the most popular sport in China? Just saw a post about baseball in China, what is the most popular sport in China? Is there any sport that's heads and shoulders above the rest?""","""Surprisingly I’ve seen a lot of people play Basketball""",direct
+"""Why does sports betting seem like it's something you could easily profit on but you really can't?""","""Because a lot of people are bad with statistics and probability. Can you win? Absolutely. It's actually not that hard currently with all of the offers that are out there. I've been profitable for 5 years. But guess what? Most of my accounts are limited now so I can't bet very much. They don't want winners to continue playing.""",direct
+"""How do you feel about board games?""","""Many board games are games about anticipating results, planning ahead, and managing resources. I do not have enough extra executive functioning to waste it on games. """,direct
+"""Is it accurate to say that right wing ideology prioritizes hierarchy over equality?""","""t's not hierarchy, it's talent based advancement instead of DEI advancement. An individual can advance through hard work and ambition. With DEI, those who have neither worked for nor have earned advancement is given priority.""",direct
+"""Where does the water go if you light a balloon of hydrogen on fire? How can it get hot and produce water at the same time? Do you just get super heated vapour?""","""Burning most fuels that contain any hydrogen (including hydrocarbons like methane and gasoline, or carbohydrates like wood) produces water, it’s just very hot so it is a gas (water vapor)
+
+There’s nothing about water that is intrinsically incompatible with fire, we just use liquid water to put out fire because it cools down the thing that’s burning (in part by turning into gaseous water vapor). """,direct
+"""Why do conservative Christians hate so many people when it clearly goes against their Christian values?""","""The problem is that new testament Christianity is not a conservative philosophy. Christians who are conservative are missing most of the point.""",direct
+"""How drastically has your political views changed within the last 10 years or so and why?""","""I remember thinking Obama wasn't liberal enough, now I would gladly vote a moderate from any party into the White House for the sake of saving our country.""",direct
+"""Most toxic gaming community?""","""GTA Online is an absolute cesspool.""",direct
+"""Why do r*dditors pretend that the majority of americans don‘t support Trump?""","""Whatever, bot""",off-topic
+"""When I look at the problems, I have no idea what methods to apply.
+
+I practice a lot.
+
+When eventually I give up and look at the solution, they just seem to know which solution to apply but don't really break down what in the question gave them the idea to use that - or how to start breaking down the problem to find the method to use.
+
+Now, I didn't feel like this so much in CALC I , II , even III. I understood the concepts at about same level as i did for differential equations (which is to say I feel like I can explain them to a 15 year old) and often I solved questions on those lower math classes just by knowing what formula to use by being familiar through lots and lots of practice.
+
+But I can't seem to get to that level in Differential Equations. Even with open book of methods, I can't seem to figure out what to plug in - or how to start breaking down the problem to get to a point where I can plug in a method .
+
+Is my brain missing something/ am I looking at this completely wrong?
+
+Is the simple answer just that I need to practice even more?
+
+Bonus question : IF all they care about is us understanding the concepts, why don't they provide the formulas/methods?
+
+sorry for the long text.""","""Differential equations get messy, fast. There are certain classes that we know how to deal with well. To learn these categories, you have to spend time getting to know which techniques to apply in which situations. That work is plug and play until you get it memorized, then it becomes a tool to pick apart harder problems. Partial differential equations was a fun class""",direct
