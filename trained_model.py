@@ -25,6 +25,14 @@ X_test = test[["Post", "Comment"]]
 y_test = test["Label"]
 
 
+# majority label (baseline)
+majority_label = train["Label"].mode()[0]
+print("Majority label from training set:", majority_label)
+
+base_pred = [majority_label] * len(val)
+print("Majority label", f1_score(y_val, base_pred, average="weighted"))
+
+
 # combine Post + Comment into one string per row
 X_train_text = X_train["Post"] + " " + X_train["Comment"]
 X_val_text   = X_val["Post"] + " " + X_val["Comment"]
@@ -65,7 +73,7 @@ nn.fit(X_train_vec.toarray(), y_train)
 nn_pred = nn.predict(X_val_vec.toarray())
 print("Neural Network:", f1_score(y_val, nn_pred, average="weighted"))
 
-
+# Majority label: 0.5547854785478548
 # Logistic regression 0.5923483271088784
 # Random Forest: 0.6013472828541321         (best)
 # Neural Network: 0.5622014925373134
