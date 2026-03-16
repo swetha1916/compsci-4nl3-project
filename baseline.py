@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import f1_score
 
 # train 60%
 train_df = pd.read_csv("train.csv")
@@ -19,8 +19,6 @@ val_preds = [majority_label] * len(val_df)
 test_preds = [majority_label] * len(test_df)
 
 # accuracy
-val_accuracy = accuracy_score(val_df["Label"], val_preds)
-test_accuracy = accuracy_score(test_df["Label"], test_preds)
+val_f1 = f1_score(val_df["Label"], val_preds, pos_label="direct")
 
-print(f"Validation accuracy: {val_accuracy:.6f}")
-print(f"Test accuracy: {test_accuracy:.6f}")
+print(f"Validation F1 score: {val_f1:.6f}")
