@@ -19,6 +19,6 @@ val_preds = [majority_label] * len(val_df)
 test_preds = [majority_label] * len(test_df)
 
 # accuracy
-val_f1 = f1_score(val_df["Label"], val_preds, pos_label="direct")
+val_f1 = f1_score(val_df["Label"], val_preds, average="macro")
 
 print(f"Validation F1 score: {val_f1:.6f}")
