@@ -1,0 +1,79 @@
+Reddit Comment Classification Benchmark - Starting Kit
+
+This starting kit provides the data format and baseline code for the Reddit comment classification task.
+
+Files included
+--------------
+train.csv
+    Training set with the following columns:
+    - ID
+    - Post
+    - Comment
+    - Label
+
+validation.csv
+    Validation set with the following columns:
+    - ID
+    - Post
+    - Comment
+    - Label
+
+test_input.csv
+    Test input set with the following columns:
+    - ID
+    - Post
+    - Comment
+
+baseline.py
+    Example baseline script that evaluates:
+    - Majority baseline
+    - Logistic Regression
+    - Random Forest
+    - Feedforward Neural Network
+
+How to run the baseline
+-----------------------
+Run the following command in the folder containing the files:
+
+python baseline.py
+
+or, depending on your system:
+
+py baseline.py
+
+What the baseline does
+----------------------
+The baseline script combines each Post and Comment into one text input, converts the text into TF-IDF features, and evaluates multiple classifiers on the validation set.
+
+Evaluation metric
+-----------------
+The benchmark uses weighted F1 score for evaluation.
+Higher weighted F1 indicates better performance.
+
+Submission format
+-----------------
+Participants should submit a CSV file containing exactly these columns:
+
+ID,Label
+
+Example:
+
+ID,Label
+0,direct
+1,related
+2,off-topic
+
+The CSV file should then be zipped before being uploaded to Codabench.
+
+Allowed labels
+--------------
+- direct
+- related
+- off-topic
+
+Notes
+-----
+- The training set is provided for model development.
+- The validation set can be used for local evaluation.
+- The test input set does not contain labels.
+- Final leaderboard scoring is performed using hidden test labels on Codabench.
